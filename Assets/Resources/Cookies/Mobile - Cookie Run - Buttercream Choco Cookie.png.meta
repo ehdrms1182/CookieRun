@@ -1,0 +1,1779 @@
+fileFormatVersion: 2
+guid: 7ca35ce3b26a52141b0dce861d8a3fcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8477528963047261148
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_0
+  - first:
+      213: -1557953372555387515
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_1
+  - first:
+      213: -8442191092084040485
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_2
+  - first:
+      213: 6104813425183122671
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_3
+  - first:
+      213: -5687306026494152845
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_4
+  - first:
+      213: -1285326550500877149
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_5
+  - first:
+      213: -4413042647451310691
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_6
+  - first:
+      213: 5130068846212032370
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_7
+  - first:
+      213: -7516895898678727179
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_8
+  - first:
+      213: -8791216086194925969
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_9
+  - first:
+      213: -2724899139397001666
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_10
+  - first:
+      213: -5918663557179098042
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_11
+  - first:
+      213: 773557701792142890
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_12
+  - first:
+      213: 8381794272072746885
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_13
+  - first:
+      213: -1836591162073993947
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_14
+  - first:
+      213: -6417341505878273606
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_15
+  - first:
+      213: 5632060618510857900
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_16
+  - first:
+      213: 7307095253466490815
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_17
+  - first:
+      213: -4272204551942017915
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_18
+  - first:
+      213: 1147483217676799934
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_19
+  - first:
+      213: 5199338256323462978
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_20
+  - first:
+      213: 1285755426362599675
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_21
+  - first:
+      213: 5370270259502570142
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_22
+  - first:
+      213: 3171951091321031729
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_23
+  - first:
+      213: -2211525435366050918
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_24
+  - first:
+      213: -8182242409978049160
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_25
+  - first:
+      213: -6052552301489867446
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_26
+  - first:
+      213: -2531003344015844480
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_27
+  - first:
+      213: 1197515656827519753
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_28
+  - first:
+      213: -1913293751701302632
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_29
+  - first:
+      213: -6674035390736085889
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_30
+  - first:
+      213: 8702563426681414251
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_31
+  - first:
+      213: 9199821510804061996
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_32
+  - first:
+      213: 9021464681161508539
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_33
+  - first:
+      213: 7202658410597826234
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_34
+  - first:
+      213: -5839551885874861693
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_35
+  - first:
+      213: 4095068345838676557
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_36
+  - first:
+      213: -4566112459911106340
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_37
+  - first:
+      213: 6631288003150875557
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_38
+  - first:
+      213: -4122210594261587664
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_39
+  - first:
+      213: 3246285226575592543
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_40
+  - first:
+      213: 5521089219616314277
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_41
+  - first:
+      213: -5122943110726467928
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_42
+  - first:
+      213: 7234112638570874122
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_43
+  - first:
+      213: 5496960792137440028
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_44
+  - first:
+      213: -6283345973860155954
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_45
+  - first:
+      213: 7929912447659584946
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_46
+  - first:
+      213: 7906984388078720086
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_47
+  - first:
+      213: 6912365520058801027
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_48
+  - first:
+      213: -7035901132459945227
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_49
+  - first:
+      213: -8167822819592259272
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_50
+  - first:
+      213: -5711522435716588372
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_51
+  - first:
+      213: 7647862971542004918
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_52
+  - first:
+      213: -3807189702216334235
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_53
+  - first:
+      213: 2503505404859013359
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_54
+  - first:
+      213: -8440308356800703872
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_55
+  - first:
+      213: 1089708092240087184
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_56
+  - first:
+      213: 7417931745607855994
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_57
+  - first:
+      213: -4367101240403472842
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_58
+  - first:
+      213: 7712553771952853874
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_59
+  - first:
+      213: -948045626281066092
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_60
+  - first:
+      213: -1503683762893609705
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_61
+  - first:
+      213: 1456098337129544269
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_62
+  - first:
+      213: 8453571356859189481
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_63
+  - first:
+      213: 6764277333857321305
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_64
+  - first:
+      213: -8423233838736698437
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_65
+  - first:
+      213: 3367224001680778332
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_66
+  - first:
+      213: 8248812251487670355
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_67
+  - first:
+      213: -6194754329948868972
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_68
+  - first:
+      213: -2672708277399942211
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_69
+  - first:
+      213: -1072423970825040934
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_70
+  - first:
+      213: 77223487271234754
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_71
+  - first:
+      213: 7912418184789312737
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_72
+  - first:
+      213: -1442861715585073718
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_73
+  - first:
+      213: 7858959111148613046
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_74
+  - first:
+      213: -2562119704127261224
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_75
+  - first:
+      213: 8303911787254400369
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_76
+  - first:
+      213: 4699441906291324260
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_77
+  - first:
+      213: -239412963621924697
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_78
+  - first:
+      213: 3142189148519481867
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_79
+  - first:
+      213: 1608033863246279558
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_80
+  - first:
+      213: -9006328088974004731
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_81
+  - first:
+      213: 4414774690507528647
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_82
+  - first:
+      213: -2328610668150390918
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_83
+  - first:
+      213: -7345367121525415643
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_84
+  - first:
+      213: 7133946783268717718
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_85
+  - first:
+      213: -6002664051527073053
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_86
+  - first:
+      213: -6772913552862572305
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_87
+  - first:
+      213: 3985699127171757131
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_88
+  - first:
+      213: 3526438645159146436
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_89
+  - first:
+      213: -4959186306848295118
+    second: Mobile - Cookie Run - Buttercream Choco Cookie_90
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7b70f254c95a80800000000000000
+      internalID: -8477528963047261148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dd63c79a9016ae0800000000000000
+      internalID: -1557953372555387515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_2
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc1d5e2eef47da80800000000000000
+      internalID: -8442191092084040485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_3
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4631c2777a8b450800000000000000
+      internalID: 6104813425183122671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_4
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fa0e13d41a211b0800000000000000
+      internalID: -5687306026494152845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_5
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac5401ff4a992ee0800000000000000
+      internalID: -1285326550500877149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_6
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95e30ce719b1c2c0800000000000000
+      internalID: -4413042647451310691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_7
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27724c37f6aa13740800000000000000
+      internalID: 5130068846212032370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_8
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde9a1a10f9ea790800000000000000
+      internalID: -7516895898678727179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_9
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ec6a62c835ff580800000000000000
+      internalID: -8791216086194925969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_10
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1612
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e597b7ba63f2ad0800000000000000
+      internalID: -2724899139397001666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c3a496adeacdda0800000000000000
+      internalID: -5918663557179098042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26969c91aa3cba00800000000000000
+      internalID: 773557701792142890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_13
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587cc475b7d125470800000000000000
+      internalID: 8381794272072746885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_14
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d25fa911e1386e0800000000000000
+      internalID: -1836591162073993947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_15
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab151c3a6e501f6a0800000000000000
+      internalID: -6417341505878273606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_16
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca67ec7ea49192e40800000000000000
+      internalID: 5632060618510857900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_17
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb720da1b64086560800000000000000
+      internalID: 7307095253466490815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_18
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c60b9589416b4c0800000000000000
+      internalID: -4272204551942017915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_19
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf095728edacef00800000000000000
+      internalID: 1147483217676799934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_20
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247424bc892c72840800000000000000
+      internalID: 5199338256323462978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_21
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1290
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8af508fbbe7d110800000000000000
+      internalID: 1285755426362599675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ade7d1958078a40800000000000000
+      internalID: 5370270259502570142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c4a1b36b8050c20800000000000000
+      internalID: 3171951091321031729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_24
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f34d65551f41e0800000000000000
+      internalID: -2211525435366050918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_25
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d4f1721e5d27e80800000000000000
+      internalID: -8182242409978049160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_26
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453935efb3010ca0800000000000000
+      internalID: -6052552301489867446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_27
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1c925ed110ecd0800000000000000
+      internalID: -2531003344015844480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_28
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9034c2a252e6e9010800000000000000
+      internalID: 1197515656827519753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_29
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8929eda487d9275e0800000000000000
+      internalID: -1913293751701302632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_30
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4ac43c201163a0800000000000000
+      internalID: -6674035390736085889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_31
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62e6a21457b5c870800000000000000
+      internalID: 8702563426681414251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_32
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 968
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f397cdbe45caf70800000000000000
+      internalID: 9199821510804061996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb64d5a645ea23d70800000000000000
+      internalID: 9021464681161508539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb922c9abf4f360800000000000000
+      internalID: 7202658410597826234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_35
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38967f2cf7eb5fea0800000000000000
+      internalID: -5839551885874861693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_36
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a29a4c6fa94d830800000000000000
+      internalID: 4095068345838676557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_37
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd07386f8e8e1a0c0800000000000000
+      internalID: -4566112459911106340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_38
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab0e170e41170c50800000000000000
+      internalID: 6631288003150875557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_39
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039afaf0e47fac6c0800000000000000
+      internalID: -4122210594261587664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_40
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cf2a9c63f1d0d20800000000000000
+      internalID: 3246285226575592543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_41
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3187ca469de9c40800000000000000
+      internalID: 5521089219616314277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_42
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3d902266a7e8b0800000000000000
+      internalID: -5122943110726467928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_43
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 646
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a054e27ed1bb46460800000000000000
+      internalID: 7234112638570874122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b1a9f57b0294c40800000000000000
+      internalID: 5496960792137440028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd3f2b90221dc8a0800000000000000
+      internalID: -6283345973860155954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_46
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bda2be4b55bc0e60800000000000000
+      internalID: 7929912447659584946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_47
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654ddff68604bbd60800000000000000
+      internalID: 7906984388078720086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_48
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b53c431d7adef50800000000000000
+      internalID: 6912365520058801027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_49
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2d4f4a2357b5e90800000000000000
+      internalID: -7035901132459945227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_50
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839bfd9ab6016ae80800000000000000
+      internalID: -8167822819592259272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_51
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac507c0b989cb0b0800000000000000
+      internalID: -5711522435716588372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_52
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4ef9d3adaa22a60800000000000000
+      internalID: 7647862971542004918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_53
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564cede13252a2bc0800000000000000
+      internalID: -3807189702216334235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_54
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 324
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe854edc6ec3eb220800000000000000
+      internalID: 2503505404859013359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0821226a4400eda80800000000000000
+      internalID: -8440308356800703872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_56
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c6d28cbb6f1f00800000000000000
+      internalID: 1089708092240087184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_57
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fac09ee99c1f660800000000000000
+      internalID: 7417931745607855994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_58
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e459b4f80f463c0800000000000000
+      internalID: -4367101240403472842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_59
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2735950face780b60800000000000000
+      internalID: 7712553771952853874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_60
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49187ae968dd7d2f0800000000000000
+      internalID: -948045626281066092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_61
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7152432a597d12be0800000000000000
+      internalID: -1503683762893609705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_62
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab4ae09b9153410800000000000000
+      internalID: 1456098337129544269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_63
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e842013c5e115570800000000000000
+      internalID: 8453571356859189481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_64
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951cace756a8fdd50800000000000000
+      internalID: 6764277333857321305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_65
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 2
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39c0ea379aa1b80800000000000000
+      internalID: -8423233838736698437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

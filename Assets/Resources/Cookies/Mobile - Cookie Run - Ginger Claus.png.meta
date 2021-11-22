@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 5c4a51efd268f8f4badcc41d656521c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1939523024785292361
+    second: Mobile - Cookie Run - Ginger Claus_0
+  - first:
+      213: 6756808189392193078
+    second: Mobile - Cookie Run - Ginger Claus_1
+  - first:
+      213: -4794267456304446432
+    second: Mobile - Cookie Run - Ginger Claus_2
+  - first:
+      213: -5197668180691856942
+    second: Mobile - Cookie Run - Ginger Claus_3
+  - first:
+      213: 1211959572436227182
+    second: Mobile - Cookie Run - Ginger Claus_4
+  - first:
+      213: 6736557347065950679
+    second: Mobile - Cookie Run - Ginger Claus_5
+  - first:
+      213: 5350416712859058508
+    second: Mobile - Cookie Run - Ginger Claus_6
+  - first:
+      213: 645294362546321365
+    second: Mobile - Cookie Run - Ginger Claus_7
+  - first:
+      213: -6474616399983946143
+    second: Mobile - Cookie Run - Ginger Claus_8
+  - first:
+      213: -1135523715427780393
+    second: Mobile - Cookie Run - Ginger Claus_9
+  - first:
+      213: -8926759524281736227
+    second: Mobile - Cookie Run - Ginger Claus_10
+  - first:
+      213: 6889756470232704228
+    second: Mobile - Cookie Run - Ginger Claus_11
+  - first:
+      213: 6740338403938013427
+    second: Mobile - Cookie Run - Ginger Claus_12
+  - first:
+      213: 823182362245244462
+    second: Mobile - Cookie Run - Ginger Claus_13
+  - first:
+      213: -3214969204694639800
+    second: Mobile - Cookie Run - Ginger Claus_14
+  - first:
+      213: 7285106947895103258
+    second: Mobile - Cookie Run - Ginger Claus_15
+  - first:
+      213: 5596543925813758479
+    second: Mobile - Cookie Run - Ginger Claus_16
+  - first:
+      213: -1633434722361170106
+    second: Mobile - Cookie Run - Ginger Claus_17
+  - first:
+      213: 608229848885686245
+    second: Mobile - Cookie Run - Ginger Claus_18
+  - first:
+      213: 2713830086830396164
+    second: Mobile - Cookie Run - Ginger Claus_19
+  - first:
+      213: -5845997098482172732
+    second: Mobile - Cookie Run - Ginger Claus_20
+  - first:
+      213: -7557122235768789558
+    second: Mobile - Cookie Run - Ginger Claus_21
+  - first:
+      213: 989818856695560434
+    second: Mobile - Cookie Run - Ginger Claus_22
+  - first:
+      213: 5921111326679272855
+    second: Mobile - Cookie Run - Ginger Claus_23
+  - first:
+      213: 6534375758842045238
+    second: Mobile - Cookie Run - Ginger Claus_24
+  - first:
+      213: 7051646022071908767
+    second: Mobile - Cookie Run - Ginger Claus_25
+  - first:
+      213: 8454447111348688915
+    second: Mobile - Cookie Run - Ginger Claus_26
+  - first:
+      213: 944397333107867650
+    second: Mobile - Cookie Run - Ginger Claus_27
+  - first:
+      213: -5844870712637044762
+    second: Mobile - Cookie Run - Ginger Claus_28
+  - first:
+      213: -5206340500843390592
+    second: Mobile - Cookie Run - Ginger Claus_29
+  - first:
+      213: -2366963209914426441
+    second: Mobile - Cookie Run - Ginger Claus_30
+  - first:
+      213: -5787879780809066143
+    second: Mobile - Cookie Run - Ginger Claus_31
+  - first:
+      213: 4112787582160680823
+    second: Mobile - Cookie Run - Ginger Claus_32
+  - first:
+      213: 6042272384321457065
+    second: Mobile - Cookie Run - Ginger Claus_33
+  - first:
+      213: 7191370960427519598
+    second: Mobile - Cookie Run - Ginger Claus_34
+  - first:
+      213: 6888683864136300044
+    second: Mobile - Cookie Run - Ginger Claus_35
+  - first:
+      213: -8123839742249441173
+    second: Mobile - Cookie Run - Ginger Claus_36
+  - first:
+      213: 195370874661676436
+    second: Mobile - Cookie Run - Ginger Claus_37
+  - first:
+      213: 8993730847533763005
+    second: Mobile - Cookie Run - Ginger Claus_38
+  - first:
+      213: -5337090406379339295
+    second: Mobile - Cookie Run - Ginger Claus_39
+  - first:
+      213: -6439936320196932946
+    second: Mobile - Cookie Run - Ginger Claus_40
+  - first:
+      213: -6542233331842968667
+    second: Mobile - Cookie Run - Ginger Claus_41
+  - first:
+      213: -8973666382280342076
+    second: Mobile - Cookie Run - Ginger Claus_42
+  - first:
+      213: 2470676315501225578
+    second: Mobile - Cookie Run - Ginger Claus_43
+  - first:
+      213: 2074386114092711967
+    second: Mobile - Cookie Run - Ginger Claus_44
+  - first:
+      213: -3313497418414583383
+    second: Mobile - Cookie Run - Ginger Claus_45
+  - first:
+      213: 109833039184711777
+    second: Mobile - Cookie Run - Ginger Claus_46
+  - first:
+      213: 4159828952187792419
+    second: Mobile - Cookie Run - Ginger Claus_47
+  - first:
+      213: 7888319948301538367
+    second: Mobile - Cookie Run - Ginger Claus_48
+  - first:
+      213: 4344765700651562547
+    second: Mobile - Cookie Run - Ginger Claus_49
+  - first:
+      213: 2551815096383927287
+    second: Mobile - Cookie Run - Ginger Claus_50
+  - first:
+      213: -2340479478944540383
+    second: Mobile - Cookie Run - Ginger Claus_51
+  - first:
+      213: -9004157900312436173
+    second: Mobile - Cookie Run - Ginger Claus_52
+  - first:
+      213: -4522077267711179035
+    second: Mobile - Cookie Run - Ginger Claus_53
+  - first:
+      213: -569631317742573105
+    second: Mobile - Cookie Run - Ginger Claus_54
+  - first:
+      213: -2871443884965278808
+    second: Mobile - Cookie Run - Ginger Claus_55
+  - first:
+      213: -3880737303486121187
+    second: Mobile - Cookie Run - Ginger Claus_56
+  - first:
+      213: 5094453904676145076
+    second: Mobile - Cookie Run - Ginger Claus_57
+  - first:
+      213: 635022874314694684
+    second: Mobile - Cookie Run - Ginger Claus_58
+  - first:
+      213: -1162712600571036647
+    second: Mobile - Cookie Run - Ginger Claus_59
+  - first:
+      213: 2373297404716895433
+    second: Mobile - Cookie Run - Ginger Claus_60
+  - first:
+      213: 9097896549984632648
+    second: Mobile - Cookie Run - Ginger Claus_61
+  - first:
+      213: -4561105332622164410
+    second: Mobile - Cookie Run - Ginger Claus_62
+  - first:
+      213: 4182943192802022367
+    second: Mobile - Cookie Run - Ginger Claus_63
+  - first:
+      213: -8248584019807347581
+    second: Mobile - Cookie Run - Ginger Claus_64
+  - first:
+      213: 6483320118311736460
+    second: Mobile - Cookie Run - Ginger Claus_65
+  - first:
+      213: -973857230303939919
+    second: Mobile - Cookie Run - Ginger Claus_66
+  - first:
+      213: 454067666029723091
+    second: Mobile - Cookie Run - Ginger Claus_67
+  - first:
+      213: -7791605727514965805
+    second: Mobile - Cookie Run - Ginger Claus_68
+  - first:
+      213: -4055671578038330188
+    second: Mobile - Cookie Run - Ginger Claus_69
+  - first:
+      213: 4728911112375124774
+    second: Mobile - Cookie Run - Ginger Claus_70
+  - first:
+      213: -580817798892663265
+    second: Mobile - Cookie Run - Ginger Claus_71
+  - first:
+      213: -1190825559143292638
+    second: Mobile - Cookie Run - Ginger Claus_72
+  - first:
+      213: -4925359193694322924
+    second: Mobile - Cookie Run - Ginger Claus_73
+  - first:
+      213: 3742266143814603471
+    second: Mobile - Cookie Run - Ginger Claus_74
+  - first:
+      213: 6564917267149324129
+    second: Mobile - Cookie Run - Ginger Claus_75
+  - first:
+      213: 2313826977564360280
+    second: Mobile - Cookie Run - Ginger Claus_76
+  - first:
+      213: 8868896168182795948
+    second: Mobile - Cookie Run - Ginger Claus_77
+  - first:
+      213: -3143075379603071464
+    second: Mobile - Cookie Run - Ginger Claus_78
+  - first:
+      213: 4475291953681038185
+    second: Mobile - Cookie Run - Ginger Claus_79
+  - first:
+      213: -3605100206292528796
+    second: Mobile - Cookie Run - Ginger Claus_80
+  - first:
+      213: -3631912684019573177
+    second: Mobile - Cookie Run - Ginger Claus_81
+  - first:
+      213: 2127695091155992229
+    second: Mobile - Cookie Run - Ginger Claus_82
+  - first:
+      213: 6149109517910784600
+    second: Mobile - Cookie Run - Ginger Claus_83
+  - first:
+      213: -4018031790007928294
+    second: Mobile - Cookie Run - Ginger Claus_84
+  - first:
+      213: -6190340119086906433
+    second: Mobile - Cookie Run - Ginger Claus_85
+  - first:
+      213: 6010509739813977806
+    second: Mobile - Cookie Run - Ginger Claus_86
+  - first:
+      213: 8728770699653764713
+    second: Mobile - Cookie Run - Ginger Claus_87
+  - first:
+      213: 2311061604071153749
+    second: Mobile - Cookie Run - Ginger Claus_88
+  - first:
+      213: 5758606088385115909
+    second: Mobile - Cookie Run - Ginger Claus_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34bf1c51e6515e0800000000000000
+      internalID: -1939523024785292361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6360c28cf3105cd50800000000000000
+      internalID: 6756808189392193078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02402cc4627577db0800000000000000
+      internalID: -4794267456304446432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_3
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1d28df35c2ed7b0800000000000000
+      internalID: -5197668180691856942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_4
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6412355fceb1d010800000000000000
+      internalID: 1211959572436227182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_5
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f9e0273f0d7d50800000000000000
+      internalID: 6736557347065950679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_6
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41074217af704a40800000000000000
+      internalID: 5350416712859058508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_7
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7b227cdcb84f800800000000000000
+      internalID: 645294362546321365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_8
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166d90e20ba8526a0800000000000000
+      internalID: -6474616399983946143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_9
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d835e3723fcd30f0800000000000000
+      internalID: -1135523715427780393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_10
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32ad73287cd1480800000000000000
+      internalID: -8926759524281736227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_11
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e46b2591055d9f50800000000000000
+      internalID: 6889756470232704228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_12
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f016a8011e7a8d50800000000000000
+      internalID: 6740338403938013427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_13
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26aefe3ff78c6b00800000000000000
+      internalID: 823182362245244462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_14
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 1453
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b1b5eba822263d0800000000000000
+      internalID: -3214969204694639800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f8404cb26e91560800000000000000
+      internalID: 7285106947895103258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0acffb7c0beaad40800000000000000
+      internalID: 5596543925813758479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647afd936cfd459e0800000000000000
+      internalID: -1633434722361170106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_18
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efee9433ddd07800800000000000000
+      internalID: 608229848885686245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_19
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4031b42e51679a520800000000000000
+      internalID: 2713830086830396164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_20
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc7103cc98dedea0800000000000000
+      internalID: -5845997098482172732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_21
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5abccad55bf1790800000000000000
+      internalID: -7557122235768789558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_22
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f87251810b8cbd00800000000000000
+      internalID: 989818856695560434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_23
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d824651630c2250800000000000000
+      internalID: 5921111326679272855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_24
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63324bec124ceaa50800000000000000
+      internalID: 6534375758842045238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_25
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99746322ba7cd160800000000000000
+      internalID: 7051646022071908767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_26
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318144caada345570800000000000000
+      internalID: 8454447111348688915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_27
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20088beee5c2b1d00800000000000000
+      internalID: 944397333107867650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_28
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e74f27ed09d2eea0800000000000000
+      internalID: -5844870712637044762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_29
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 1163
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089108b16ec5fb7b0800000000000000
+      internalID: -5206340500843390592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd1a4508bd62fd0800000000000000
+      internalID: -2366963209914426441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169b53e31025dafa0800000000000000
+      internalID: -5787879780809066143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_32
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7773357f38e831930800000000000000
+      internalID: 4112787582160680823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_33
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab02af58b67ad350800000000000000
+      internalID: 6042272384321457065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_34
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e875879c1ecc360800000000000000
+      internalID: 7191370960427519598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_35
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063fc30a75899f50800000000000000
+      internalID: 6888683864136300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_36
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68650fdbc2524f80800000000000000
+      internalID: -8123839742249441173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_37
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495aaaf76c816b200800000000000000
+      internalID: 195370874661676436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_38
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db909b41e8620dc70800000000000000
+      internalID: 8993730847533763005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_39
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e14d917d88dee5b0800000000000000
+      internalID: -5337090406379339295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_40
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa868a7900c0a6a0800000000000000
+      internalID: -6439936320196932946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_41
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a397c962715535a0800000000000000
+      internalID: -6542233331842968667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_42
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c05748f1277380800000000000000
+      internalID: -8973666382280342076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_43
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66eb6cc40b994220800000000000000
+      internalID: 2470676315501225578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_44
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 873
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10cf712e23b9cc10800000000000000
+      internalID: 2074386114092711967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1993357a71402d0800000000000000
+      internalID: -3313497418414583383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160d4353194368100800000000000000
+      internalID: 109833039184711777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_47
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ce98d646eaab930800000000000000
+      internalID: 4159828952187792419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_48
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f341429e231f87d60800000000000000
+      internalID: 7888319948301538367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_49
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33633ab9265bb4c30800000000000000
+      internalID: 4344765700651562547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_50
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f371706f4ed96320800000000000000
+      internalID: 2551815096383927287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_51
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1295b657052f48fd0800000000000000
+      internalID: -2340479478944540383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_52
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a952881eca0380800000000000000
+      internalID: -9004157900312436173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_53
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6c43b1faa5e31c0800000000000000
+      internalID: -4522077267711179035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_54
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc92405a5534818f0800000000000000
+      internalID: -569631317742573105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_55
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab4d2c00059628d0800000000000000
+      internalID: -2871443884965278808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_56
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b3a17cbf9d42ac0800000000000000
+      internalID: -3880737303486121187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_57
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c2d0b5d223b640800000000000000
+      internalID: 5094453904676145076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_58
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1066cf80fd00d800800000000000000
+      internalID: 635022874314694684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_59
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 583
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cb713dc073ddfe0800000000000000
+      internalID: -1162712600571036647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc1825a65afe020800000000000000
+      internalID: 2373297404716895433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_61
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff511a5b8324e70800000000000000
+      internalID: 9097896549984632648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_62
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e7ae1add2b3b0c0800000000000000
+      internalID: -4561105332622164410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_63
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd35a92fbaccc0a30800000000000000
+      internalID: 4182943192802022367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_64
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c5b6f6984278d80800000000000000
+      internalID: -8248584019807347581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_65
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c845d192c4169f950800000000000000
+      internalID: 6483320118311736460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_66
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2b9cd320a2c72f0800000000000000
+      internalID: -973857230303939919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_67
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd31b1f22c2d4600800000000000000
+      internalID: 454067666029723091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_68
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8429d5fd7aed390800000000000000
+      internalID: -7791605727514965805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_69
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc9069003c57b7c0800000000000000
+      internalID: -4055671578038330188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_70
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62344831a9770a140800000000000000
+      internalID: 4728911112375124774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_71
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e47c90a4580f7f0800000000000000
+      internalID: -580817798892663265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_72
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221eec59676597fe0800000000000000
+      internalID: -1190825559143292638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_73
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f35a4b8eb95abb0800000000000000
+      internalID: -4925359193694322924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_74
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 293
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc25a0dfa333fe330800000000000000
+      internalID: 3742266143814603471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f7348d8754b1b50800000000000000
+      internalID: 6564917267149324129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_76
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e707d706d5c1020800000000000000
+      internalID: 2313826977564360280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_77
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caecb565316a41b70800000000000000
+      internalID: 8868896168182795948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_78
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e9b70589d8164d0800000000000000
+      internalID: -3143075379603071464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_79
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b725d125e6b1e30800000000000000
+      internalID: 4475291953681038185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_80
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4611f38867c18fdc0800000000000000
+      internalID: -3605100206292528796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_81
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e17c518aad89dc0800000000000000
+      internalID: -3631912684019573177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_82
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aef1b29967178d10800000000000000
+      internalID: 2127695091155992229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_83
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85abb04f686065550800000000000000
+      internalID: 6149109517910784600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_84
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ab95c10651d38c0800000000000000
+      internalID: -4018031790007928294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_85
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3c9f2a57e771aa0800000000000000
+      internalID: -6190340119086906433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_86
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece33a863ce996350800000000000000
+      internalID: 6010509739813977806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_87
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96653be44b2d22970800000000000000
+      internalID: 8728770699653764713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_88
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550a4bcc84a821020800000000000000
+      internalID: 2311061604071153749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Ginger Claus_89
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 3
+        width: 280
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507b89b1abdaaef40800000000000000
+      internalID: 5758606088385115909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

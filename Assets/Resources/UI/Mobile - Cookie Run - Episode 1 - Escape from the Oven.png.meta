@@ -1,7 +1,2470 @@
 fileFormatVersion: 2
 guid: d623ff5faef570f46a82d476ad1b4d9f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 83765275440652266
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_0
+  - first:
+      213: 8945686340737170626
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_1
+  - first:
+      213: -2582714814448277585
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_2
+  - first:
+      213: 3923455320828237188
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_3
+  - first:
+      213: 2788297104084210843
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_4
+  - first:
+      213: -8563513564541221757
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_5
+  - first:
+      213: 2795195831298879858
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_6
+  - first:
+      213: 4731822807004819700
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_7
+  - first:
+      213: -460771922390898873
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_8
+  - first:
+      213: -249280625057097784
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_9
+  - first:
+      213: -8591553775182927783
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_10
+  - first:
+      213: 1518928176935677426
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_11
+  - first:
+      213: 1823719193438310791
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_12
+  - first:
+      213: -5912785502733944057
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_13
+  - first:
+      213: 6266018632451492766
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_14
+  - first:
+      213: -3115254170354910856
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_15
+  - first:
+      213: 8176307659349753999
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_16
+  - first:
+      213: 463535893753486038
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_17
+  - first:
+      213: 4107768898945135131
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_18
+  - first:
+      213: 4013580796016187313
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_19
+  - first:
+      213: -543984151118971655
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_20
+  - first:
+      213: -8834520607685360734
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_21
+  - first:
+      213: -2458915183062345911
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_22
+  - first:
+      213: 4634755607172262881
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_23
+  - first:
+      213: -7522150682911091739
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_24
+  - first:
+      213: -3178108196177199417
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_25
+  - first:
+      213: 4257188660703933485
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_26
+  - first:
+      213: 7887287959729365895
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_27
+  - first:
+      213: 7246599182913031602
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_28
+  - first:
+      213: 4493040825762495821
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_29
+  - first:
+      213: -6925931105440524784
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_30
+  - first:
+      213: 5038437399447227749
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_31
+  - first:
+      213: -7452121003034553789
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_32
+  - first:
+      213: -8455770169449936713
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_33
+  - first:
+      213: 1617753540343049626
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_34
+  - first:
+      213: -4483203626428222818
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_35
+  - first:
+      213: 5513738936849264151
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_36
+  - first:
+      213: -1426665588154938630
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_37
+  - first:
+      213: -3906365394106945359
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_38
+  - first:
+      213: -6775489954899256368
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_39
+  - first:
+      213: -2707085666881203358
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_40
+  - first:
+      213: 2260184166682762696
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_41
+  - first:
+      213: 6927010071456121215
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_42
+  - first:
+      213: 2807592020567406797
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_43
+  - first:
+      213: 6087706791911168922
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_44
+  - first:
+      213: 7270052051952152754
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_45
+  - first:
+      213: -6956493766810422541
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_46
+  - first:
+      213: 2215936039164078046
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_47
+  - first:
+      213: -953403021459416805
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_48
+  - first:
+      213: -7299238183495431388
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_49
+  - first:
+      213: -3901793507318435562
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_50
+  - first:
+      213: 6722506516240594855
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_51
+  - first:
+      213: -7107572084132837460
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_52
+  - first:
+      213: -1220390697022976386
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_53
+  - first:
+      213: 3717051066605843381
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_54
+  - first:
+      213: -1900302313469241760
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_55
+  - first:
+      213: -2465766693190174558
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_56
+  - first:
+      213: 6303709690154083288
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_57
+  - first:
+      213: -6718611720383893144
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_58
+  - first:
+      213: -290232076395232608
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_59
+  - first:
+      213: -459409598694557901
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_60
+  - first:
+      213: -2326250423076556482
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_61
+  - first:
+      213: 517952902535732681
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_62
+  - first:
+      213: 47572055619026472
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_63
+  - first:
+      213: -6396207450916173246
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_64
+  - first:
+      213: 6835580905084574573
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_65
+  - first:
+      213: 2844494116483620893
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_66
+  - first:
+      213: -3339317013995765485
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_67
+  - first:
+      213: 574492303277168505
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_68
+  - first:
+      213: 1166986235307472751
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_69
+  - first:
+      213: -8170795714829733245
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_70
+  - first:
+      213: -2698486058066512849
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_71
+  - first:
+      213: -6895096806300904355
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_72
+  - first:
+      213: 3311718469618233100
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_73
+  - first:
+      213: 7815575184348787738
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_74
+  - first:
+      213: 1356321794208061819
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_75
+  - first:
+      213: 4593000461261608031
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_76
+  - first:
+      213: -5533221137732760020
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_77
+  - first:
+      213: 6757789242834628330
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_78
+  - first:
+      213: -5869074364517735873
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_79
+  - first:
+      213: -398151967709890816
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_80
+  - first:
+      213: -3922529879142744316
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_81
+  - first:
+      213: -1413285992703873049
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_82
+  - first:
+      213: 3757409676327894556
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_83
+  - first:
+      213: -4685443351755081238
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_84
+  - first:
+      213: -3506936477977950106
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_85
+  - first:
+      213: -7537679454659725546
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_86
+  - first:
+      213: 8357053203193076496
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_87
+  - first:
+      213: -252575667554552225
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_88
+  - first:
+      213: -7896265104976598329
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_89
+  - first:
+      213: -8825041738561254095
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_90
+  - first:
+      213: 4350580411882756137
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_91
+  - first:
+      213: -2572836642637445751
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_92
+  - first:
+      213: -1790379147682803480
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_93
+  - first:
+      213: 3851305506475367739
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_94
+  - first:
+      213: -4455935742023854240
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_95
+  - first:
+      213: -1891433379461508867
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_96
+  - first:
+      213: 7143361157979520104
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_97
+  - first:
+      213: 6932382545914695052
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_98
+  - first:
+      213: 4502131630259522002
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_99
+  - first:
+      213: 3146285567789917217
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_100
+  - first:
+      213: 2772307452294048342
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_101
+  - first:
+      213: 4867146950173680545
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_102
+  - first:
+      213: -6985662368785382316
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_103
+  - first:
+      213: -4413539292375251324
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_104
+  - first:
+      213: -2636402779544199704
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_105
+  - first:
+      213: -3543793961538161526
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_106
+  - first:
+      213: -8108680732462997798
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_107
+  - first:
+      213: 817812926556766257
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_108
+  - first:
+      213: -7966704177033721059
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_109
+  - first:
+      213: -7593780276918787268
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_110
+  - first:
+      213: 5329037324399269711
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_111
+  - first:
+      213: 3374402621927747628
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_112
+  - first:
+      213: 5313210593099298703
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_113
+  - first:
+      213: 3226291050670315982
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_114
+  - first:
+      213: -876551699673602448
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_115
+  - first:
+      213: 3273664156119296773
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_116
+  - first:
+      213: 4066510030719975870
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_117
+  - first:
+      213: 2438348322122588598
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_118
+  - first:
+      213: -418992397166660751
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_119
+  - first:
+      213: -4526011099110231318
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_120
+  - first:
+      213: 8470011161984512739
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_121
+  - first:
+      213: -4556215803243893026
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_122
+  - first:
+      213: -192797263732841168
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_123
+  - first:
+      213: -139347193364617231
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_124
+  - first:
+      213: -7887421148725100757
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_125
+  - first:
+      213: -4992343907513086793
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_126
+  - first:
+      213: -931257029281348237
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_127
+  - first:
+      213: -5838585335297284631
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_128
+  - first:
+      213: 7904135574674568973
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_129
+  - first:
+      213: -1195542523156336113
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_130
+  - first:
+      213: 7493739207559878374
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_131
+  - first:
+      213: 3746799566837255642
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_132
+  - first:
+      213: -1713149195536301089
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_133
+  - first:
+      213: -1370784207192086120
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_134
+  - first:
+      213: -5326685317103946437
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_135
+  - first:
+      213: 1840053071775555839
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_136
+  - first:
+      213: -247512967686511417
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_137
+  - first:
+      213: 5553890013233514930
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_138
+  - first:
+      213: -4044582641183756506
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_139
+  - first:
+      213: 2078589261050858592
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_140
+  - first:
+      213: 2112161450618850376
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_141
+  - first:
+      213: -8975875310431909173
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_142
+  - first:
+      213: -2622553009877447615
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_143
+  - first:
+      213: -2720879153826127367
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_144
+  - first:
+      213: 7891511320976395684
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_145
+  - first:
+      213: 7128699309770098315
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_146
+  - first:
+      213: 7439724266532090168
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_147
+  - first:
+      213: -350100970761463357
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_148
+  - first:
+      213: -4895924393882568990
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_149
+  - first:
+      213: -2092563205780837027
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_150
+  - first:
+      213: 8560777025046812993
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_151
+  - first:
+      213: 783863028563188923
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_152
+  - first:
+      213: 6498727241889450498
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_153
+  - first:
+      213: -2255936728232204101
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_154
+  - first:
+      213: 5589943719039327972
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_155
+  - first:
+      213: -2300641678600796106
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_156
+  - first:
+      213: 6265487042932175706
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_157
+  - first:
+      213: 2905568412441936028
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_158
+  - first:
+      213: -5087689087424621148
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_159
+  - first:
+      213: -657003202598311602
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_160
+  - first:
+      213: 2510532091185723355
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_161
+  - first:
+      213: 9044039681402241932
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_162
+  - first:
+      213: -5898736644820145370
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_163
+  - first:
+      213: -1067045726111366929
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_164
+  - first:
+      213: 8633321339648762429
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_165
+  - first:
+      213: -7063604008819462465
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_166
+  - first:
+      213: 6788562181062450111
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_167
+  - first:
+      213: 2463084260813575371
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_168
+  - first:
+      213: 5190815219794795871
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_169
+  - first:
+      213: 3830820413424083867
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_170
+  - first:
+      213: 1615605123025012957
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_171
+  - first:
+      213: -7413055018468652258
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_172
+  - first:
+      213: 57070766840434908
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_173
+  - first:
+      213: 380335721024552659
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_174
+  - first:
+      213: 5032829631456976291
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_175
+  - first:
+      213: -481042228738360258
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_176
+  - first:
+      213: 2203394245774579367
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_177
+  - first:
+      213: 7816210818105716441
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_178
+  - first:
+      213: 7683295381126478450
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_179
+  - first:
+      213: 8822531160574861717
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_180
+  - first:
+      213: 5900913656449915184
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_181
+  - first:
+      213: 8962734769670084297
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_182
+  - first:
+      213: -433098292820456654
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_183
+  - first:
+      213: 2897043349293487055
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_184
+  - first:
+      213: -4824685832923273668
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_185
+  - first:
+      213: 2161489953453402561
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_186
+  - first:
+      213: 454778208572741760
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_187
+  - first:
+      213: 5970877307690500496
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_188
+  - first:
+      213: -45703899847291026
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_189
+  - first:
+      213: -3341478268843981891
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_190
+  - first:
+      213: -7441225773778695954
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_191
+  - first:
+      213: -2836121901026790329
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_192
+  - first:
+      213: -7516344029407122579
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_193
+  - first:
+      213: -113553978817973809
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_194
+  - first:
+      213: -2331773627761666182
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_195
+  - first:
+      213: 6864265797398394648
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_196
+  - first:
+      213: 1283605474447165317
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_197
+  - first:
+      213: 2100339427212320905
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_198
+  - first:
+      213: 2093115545295507759
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_199
+  - first:
+      213: -2796843397994873566
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_200
+  - first:
+      213: 1859626588847380297
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_201
+  - first:
+      213: -8327025715013742627
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_202
+  - first:
+      213: -7319003122860386872
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_203
+  - first:
+      213: 5683830911558306591
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_204
+  - first:
+      213: 1084227355067162544
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_205
+  - first:
+      213: -2704866174512811599
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_206
+  - first:
+      213: 1186637043259579207
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_207
+  - first:
+      213: -7313946635203869820
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_208
+  - first:
+      213: -6449038928037375775
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_209
+  - first:
+      213: 8920156319691030212
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_210
+  - first:
+      213: 6279587817343415806
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_211
+  - first:
+      213: 2419606281244097626
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_212
+  - first:
+      213: -5908006536748543747
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_213
+  - first:
+      213: -7841720521202785412
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_214
+  - first:
+      213: 160370451914918434
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_215
+  - first:
+      213: 341774872792452611
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_216
+  - first:
+      213: 8410878511938788792
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_217
+  - first:
+      213: -7179069421343229581
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_218
+  - first:
+      213: 2337167508753359263
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_219
+  - first:
+      213: 8223047298706690806
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_220
+  - first:
+      213: 2353339224052922044
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_221
+  - first:
+      213: 6954142802620418939
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_222
+  - first:
+      213: -1115260439539597528
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_223
+  - first:
+      213: -9120745031116151446
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_224
+  - first:
+      213: -4352774871786465115
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_225
+  - first:
+      213: 2548509478375846784
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_226
+  - first:
+      213: 1481507812180936657
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_227
+  - first:
+      213: -7712684668718215668
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_228
+  - first:
+      213: -960686877124553031
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_229
+  - first:
+      213: 9001217993043131784
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_230
+  - first:
+      213: -1544855587066440906
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_231
+  - first:
+      213: 395113654891617471
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_232
+  - first:
+      213: 5774319474484337604
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_233
+  - first:
+      213: 7902762842983466045
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_234
+  - first:
+      213: -7990675384073408144
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_235
+  - first:
+      213: -8795611386248606954
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_236
+  - first:
+      213: 4125559218963832249
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_237
+  - first:
+      213: 5083093455665518466
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_238
+  - first:
+      213: 805861014609321589
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_239
+  - first:
+      213: -8790286611836749516
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_240
+  - first:
+      213: 4732671705417288589
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_241
+  - first:
+      213: 8530530974322333864
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_242
+  - first:
+      213: 2794374312757608521
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_243
+  - first:
+      213: 2640895319031355276
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_244
+  - first:
+      213: -47285245799682440
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_245
+  - first:
+      213: -8106858569623939292
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_246
+  - first:
+      213: -7256005778372373890
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_247
+  - first:
+      213: 799748468192610155
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_248
+  - first:
+      213: -5410803731470230505
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_249
+  - first:
+      213: 3839304151248849193
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_250
+  - first:
+      213: -3749982048986839360
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_251
+  - first:
+      213: -8984269037505791456
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_252
+  - first:
+      213: 359414613018165861
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_253
+  - first:
+      213: -5496917150346917594
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_254
+  - first:
+      213: -8190562846825488076
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_255
+  - first:
+      213: 7205974612852308400
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_256
+  - first:
+      213: -386460204782481125
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_257
+  - first:
+      213: -5305947630048854551
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_258
+  - first:
+      213: 5231108513616335186
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_259
+  - first:
+      213: 4781668233728341068
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_260
+  - first:
+      213: -7845250292549021265
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_261
+  - first:
+      213: -1773807249167278652
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_262
+  - first:
+      213: -5513570414290601334
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_263
+  - first:
+      213: 8073327538726168803
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_264
+  - first:
+      213: 266993481807427387
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_265
+  - first:
+      213: 4518998927959193477
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_266
+  - first:
+      213: 5396878824662335189
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_267
+  - first:
+      213: 1109642269759714502
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_268
+  - first:
+      213: -4295321156030438021
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_269
+  - first:
+      213: 4093794913741800361
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_270
+  - first:
+      213: -3812033350060753889
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_271
+  - first:
+      213: -1663202920487302746
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_272
+  - first:
+      213: 8311462066860417896
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_273
+  - first:
+      213: 9129596949606556179
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_274
+  - first:
+      213: 2953423406151610038
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_275
+  - first:
+      213: -866584732510681900
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_276
+  - first:
+      213: 3483042962128353028
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_277
+  - first:
+      213: -7226239202049983994
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_278
+  - first:
+      213: 4821541552820310214
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_279
+  - first:
+      213: -8971926480936543962
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_280
+  - first:
+      213: -6150008602104581240
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_281
+  - first:
+      213: 3909851371479873760
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_282
+  - first:
+      213: -5841378335734627836
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_283
+  - first:
+      213: 8833966921889039277
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_284
+  - first:
+      213: -1950647963578640063
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_285
+  - first:
+      213: 7140170438405723752
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_286
+  - first:
+      213: 8612842749746585792
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_287
+  - first:
+      213: 5313795544132690335
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_288
+  - first:
+      213: -6920635751288119840
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_289
+  - first:
+      213: 6255176297016054500
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_290
+  - first:
+      213: 3025883158920154204
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_291
+  - first:
+      213: 5134683621073351157
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_292
+  - first:
+      213: -3482414567546015191
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_293
+  - first:
+      213: -8151855086384042163
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_294
+  - first:
+      213: 265197638635945237
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_295
+  - first:
+      213: -1067580286031520143
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_296
+  - first:
+      213: 7347342976889118630
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_297
+  - first:
+      213: 6703187943330492985
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_298
+  - first:
+      213: 431919917087612294
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_299
+  - first:
+      213: 4015202347143362691
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_300
+  - first:
+      213: -8660160904855354550
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_301
+  - first:
+      213: 7515858890637928606
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_302
+  - first:
+      213: -3373702253267064543
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_303
+  - first:
+      213: 5876503124806044835
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_304
+  - first:
+      213: -5244723050645835191
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_305
+  - first:
+      213: -3184341879663162294
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_306
+  - first:
+      213: 5365324667092141753
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_307
+  - first:
+      213: 8754737991932021548
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_308
+  - first:
+      213: 7530495058711934276
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_309
+  - first:
+      213: 4135493029553416209
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_310
+  - first:
+      213: -5776116853700815949
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_311
+  - first:
+      213: -1072407815677200624
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_312
+  - first:
+      213: 6245138011034274497
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_313
+  - first:
+      213: 4390730419794537064
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_314
+  - first:
+      213: -3015426525019333378
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_315
+  - first:
+      213: -5389077620599007880
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_316
+  - first:
+      213: -8365252967183435997
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_317
+  - first:
+      213: 2860869694463414738
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_318
+  - first:
+      213: 1120632124149516186
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_319
+  - first:
+      213: 2011349839242801921
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_320
+  - first:
+      213: -1336891671056832924
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_321
+  - first:
+      213: -6829699570827693207
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_322
+  - first:
+      213: -1133821112416226396
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_323
+  - first:
+      213: 4810516305638750658
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_324
+  - first:
+      213: 8457457935348110570
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_325
+  - first:
+      213: 3154599313095383367
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_326
+  - first:
+      213: 8848758523768257301
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_327
+  - first:
+      213: -2663022296224447839
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_328
+  - first:
+      213: 8340362216553321207
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_329
+  - first:
+      213: 7955459696461293736
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_330
+  - first:
+      213: -5024679009941551283
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_331
+  - first:
+      213: -4460384010765259963
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_332
+  - first:
+      213: 5654325332128687992
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_333
+  - first:
+      213: 5869341833498321117
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_334
+  - first:
+      213: 4445590536994269629
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_335
+  - first:
+      213: 4646045912858507905
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_336
+  - first:
+      213: 4172538159402536045
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_337
+  - first:
+      213: -3812358031366706143
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_338
+  - first:
+      213: -7922616604381624642
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_339
+  - first:
+      213: 7692343253422792565
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_340
+  - first:
+      213: -3036647524202494785
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_341
+  - first:
+      213: -1634219377192838703
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_342
+  - first:
+      213: 3358655593491166166
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_343
+  - first:
+      213: -1424633132261737337
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_344
+  - first:
+      213: -8661487244074419804
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_345
+  - first:
+      213: -4745330302038455193
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_346
+  - first:
+      213: 6847588686005064707
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_347
+  - first:
+      213: -4651260874878399723
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_348
+  - first:
+      213: 1143314031670007787
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_349
+  - first:
+      213: 8717454475157686714
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_350
+  - first:
+      213: 6184911236944408706
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_351
+  - first:
+      213: -6314480570772388828
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_352
+  - first:
+      213: 8383572382424985380
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_353
+  - first:
+      213: -8248317440905120106
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_354
+  - first:
+      213: -4699351141023844538
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_355
+  - first:
+      213: 5137927380548309472
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_356
+  - first:
+      213: 3657006030869020409
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_357
+  - first:
+      213: -8613475118995256016
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_358
+  - first:
+      213: -76760246211537660
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_359
+  - first:
+      213: 1859158094195426348
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_360
+  - first:
+      213: 1678868215091034814
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_361
+  - first:
+      213: 1598742755775894442
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_362
+  - first:
+      213: -6268921787297465931
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_363
+  - first:
+      213: -4807558472002232237
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_364
+  - first:
+      213: -7274700648688087311
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_365
+  - first:
+      213: 3414424193401141943
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_366
+  - first:
+      213: -2535769203235877720
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_367
+  - first:
+      213: -5671133300526490434
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_368
+  - first:
+      213: -9223149083512377577
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_369
+  - first:
+      213: 3574993422876012006
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_370
+  - first:
+      213: 1886585408470316940
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_371
+  - first:
+      213: -2686591628005606678
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_372
+  - first:
+      213: 8786771821894742638
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_373
+  - first:
+      213: 7451620087553304248
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_374
+  - first:
+      213: -1047288665119837394
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_375
+  - first:
+      213: 4031437077460107510
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_376
+  - first:
+      213: -5486949243793327901
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_377
+  - first:
+      213: -3156044207881519860
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_378
+  - first:
+      213: 7441388646900019013
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_379
+  - first:
+      213: -6082990498986503373
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_380
+  - first:
+      213: 7743711551195926920
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_381
+  - first:
+      213: -8836583652957760330
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_382
+  - first:
+      213: -4957282497130808474
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_383
+  - first:
+      213: 7702559211054945086
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_384
+  - first:
+      213: 3578097757175087756
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_385
+  - first:
+      213: -4176258462415018054
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_386
+  - first:
+      213: 6704490814674893125
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_387
+  - first:
+      213: -8728134969167234579
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_388
+  - first:
+      213: -772009672274170640
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_389
+  - first:
+      213: 7560174712826721381
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_390
+  - first:
+      213: 8682278392098469184
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_391
+  - first:
+      213: 6525979269159028166
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_392
+  - first:
+      213: -1160042786339617982
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_393
+  - first:
+      213: -529195646328120659
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_394
+  - first:
+      213: -2265047273137343530
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_395
+  - first:
+      213: -2755555160709987736
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_396
+  - first:
+      213: -1230170435310536272
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_397
+  - first:
+      213: 4973474083274065398
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_398
+  - first:
+      213: -4741940833227803149
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_399
+  - first:
+      213: -6569388274706720117
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_400
+  - first:
+      213: -7961229612708974445
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_401
+  - first:
+      213: -6739642256097649927
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_402
+  - first:
+      213: -4207528954277149010
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_403
+  - first:
+      213: -2253888283692572560
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_404
+  - first:
+      213: 3259864037664597792
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_405
+  - first:
+      213: -8767477882999482088
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_406
+  - first:
+      213: 4850681844158385857
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_407
+  - first:
+      213: -3492933160677514037
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_408
+  - first:
+      213: 5227307545495732773
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_409
+  - first:
+      213: 77798009938075515
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_410
+  - first:
+      213: -4143385126955591446
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_411
+  - first:
+      213: -3920358551325618441
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_412
+  - first:
+      213: -3457515803759071661
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_413
+  - first:
+      213: 3950286524146425448
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_414
+  - first:
+      213: 9156632423726749804
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_415
+  - first:
+      213: 2154062736636385586
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_416
+  - first:
+      213: -6166743991445036397
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_417
+  - first:
+      213: -1361243916696561363
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_418
+  - first:
+      213: 5061346906961199153
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_419
+  - first:
+      213: 5184549079424095258
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_420
+  - first:
+      213: 5252774943649267620
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_421
+  - first:
+      213: 1638694450651279816
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_422
+  - first:
+      213: -4358858789292623833
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_423
+  - first:
+      213: -1965875697872617409
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_424
+  - first:
+      213: -684523061115378065
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_425
+  - first:
+      213: 8975828601824808283
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_426
+  - first:
+      213: 4230871480070496985
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_427
+  - first:
+      213: 4599511190169119521
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_428
+  - first:
+      213: -7521823538328855878
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_429
+  - first:
+      213: -8246055207959345017
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_430
+  - first:
+      213: -4113490168520440462
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_431
+  - first:
+      213: 8683173428767350277
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_432
+  - first:
+      213: -2599013529201224816
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_433
+  - first:
+      213: -4874550562825171199
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_434
+  - first:
+      213: -3702000581665278221
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_435
+  - first:
+      213: -7375825139010538273
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_436
+  - first:
+      213: 2172872336639703247
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_437
+  - first:
+      213: 5485249912386068271
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_438
+  - first:
+      213: -263076023116458674
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_439
+  - first:
+      213: 4852899528588906233
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_440
+  - first:
+      213: 5206555899668030123
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_441
+  - first:
+      213: 7173982719336041236
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_442
+  - first:
+      213: 8675565604390340271
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_443
+  - first:
+      213: 8247249419960987769
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_444
+  - first:
+      213: -5398445081244105218
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_445
+  - first:
+      213: -5944656750299640900
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_446
+  - first:
+      213: -2869353716745507269
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_447
+  - first:
+      213: -5124670071236053052
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_448
+  - first:
+      213: -3085383047576737180
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_449
+  - first:
+      213: 6288272589988652780
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_450
+  - first:
+      213: 5320054304540516359
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_451
+  - first:
+      213: 4031269854135467516
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_452
+  - first:
+      213: -6588448364990558175
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_453
+  - first:
+      213: 3981547141595836496
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_454
+  - first:
+      213: 1452460095295778658
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_455
+  - first:
+      213: 2546972518750539547
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_456
+  - first:
+      213: -6695012670716628467
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_457
+  - first:
+      213: -4439446125922474151
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_458
+  - first:
+      213: -8826975687203290965
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_459
+  - first:
+      213: 1516940939217945302
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_460
+  - first:
+      213: -5239396016055173536
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_461
+  - first:
+      213: 5045269516415536771
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_462
+  - first:
+      213: 5932288487649566333
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_463
+  - first:
+      213: -5244845634499084399
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_464
+  - first:
+      213: 1964988388417647826
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_465
+  - first:
+      213: -808478450932671254
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_466
+  - first:
+      213: 8694815662163868737
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_467
+  - first:
+      213: -7655757016282414912
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_468
+  - first:
+      213: 7563163481832022574
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_469
+  - first:
+      213: 2960599744544374679
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_470
+  - first:
+      213: 2433832293516262240
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_471
+  - first:
+      213: -9162054109813988229
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_472
+  - first:
+      213: -2168250137142977046
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_473
+  - first:
+      213: -1708537172546151708
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_474
+  - first:
+      213: -588838366762132040
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_475
+  - first:
+      213: -7569992324324249947
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_476
+  - first:
+      213: -1694979928359734130
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_477
+  - first:
+      213: 6510852371847946865
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_478
+  - first:
+      213: 1339307612152682010
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_479
+  - first:
+      213: -4675696912207706782
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_480
+  - first:
+      213: -6790544092618087373
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_481
+  - first:
+      213: 6980630632753024541
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_482
+  - first:
+      213: 8967380793928515940
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_483
+  - first:
+      213: 5173507369273380217
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_484
+  - first:
+      213: 7290485788954614462
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_485
+  - first:
+      213: -811697697987161828
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_486
+  - first:
+      213: 5333629275082768827
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_487
+  - first:
+      213: 4705744597484259964
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_488
+  - first:
+      213: -94239536265562749
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_489
+  - first:
+      213: -4456599422209294369
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_490
+  - first:
+      213: 4183065739560648476
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_491
+  - first:
+      213: 6459278634381242264
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_492
+  - first:
+      213: 774375451962920229
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_493
+  - first:
+      213: -4965119697206357809
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_494
+  - first:
+      213: 8763090735985201469
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_495
+  - first:
+      213: 3645613937324558439
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_496
+  - first:
+      213: 1610598071880463882
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_497
+  - first:
+      213: 7760587635902929569
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_498
+  - first:
+      213: 6148758404885442918
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_499
+  - first:
+      213: -4504160992134344618
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_500
+  - first:
+      213: -6090378961190631106
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_501
+  - first:
+      213: -3657556506636237879
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_502
+  - first:
+      213: -5616521864448476385
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_503
+  - first:
+      213: 5249738182493556621
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_504
+  - first:
+      213: 5691869072085528176
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_505
+  - first:
+      213: 6765210632401975675
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_506
+  - first:
+      213: -5062840889319877525
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_507
+  - first:
+      213: 4903937048093967978
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_508
+  - first:
+      213: 6158103781019756132
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_509
+  - first:
+      213: 6971648361467784537
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_510
+  - first:
+      213: 1837914212238728560
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_511
+  - first:
+      213: -3281247802331313519
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_512
+  - first:
+      213: 2113898382622803320
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_513
+  - first:
+      213: -7692532224504373095
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_514
+  - first:
+      213: -5698527145237274854
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_515
+  - first:
+      213: 9118107925982017515
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_516
+  - first:
+      213: 8935910481993431317
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_517
+  - first:
+      213: -9029061687763550434
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_518
+  - first:
+      213: 5035106410123691324
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_519
+  - first:
+      213: 8538654364475929231
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_520
+  - first:
+      213: 150998567382628124
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_521
+  - first:
+      213: 7420403334859793102
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_522
+  - first:
+      213: 7202298317221360428
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_523
+  - first:
+      213: 3758472095740302608
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_524
+  - first:
+      213: -4527384218669880326
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_525
+  - first:
+      213: 1669732604324000717
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_526
+  - first:
+      213: 9143739103650079454
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_527
+  - first:
+      213: -631635133122340253
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_528
+  - first:
+      213: -528065419108792951
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_529
+  - first:
+      213: -1922595713047961732
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_530
+  - first:
+      213: -2176452369655304848
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_531
+  - first:
+      213: -5821344210213683217
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_532
+  - first:
+      213: 5577173670846066903
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_533
+  - first:
+      213: -6518765155577451296
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_534
+  - first:
+      213: -8016676806901037153
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_535
+  - first:
+      213: -6970040548015416689
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_536
+  - first:
+      213: 1530574887790831854
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_537
+  - first:
+      213: 1205056455300654378
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_538
+  - first:
+      213: -7529001414319944798
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_539
+  - first:
+      213: -2471659927080772029
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_540
+  - first:
+      213: 2589274818138422801
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_541
+  - first:
+      213: 8126434427406976446
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_542
+  - first:
+      213: -6490511822429783695
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_543
+  - first:
+      213: 7965027605925804825
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_544
+  - first:
+      213: -1585509859175511136
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_545
+  - first:
+      213: 1346476301459402489
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_546
+  - first:
+      213: 5052243495031892465
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_547
+  - first:
+      213: 5310613192918954896
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_548
+  - first:
+      213: -1791437163253331634
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_549
+  - first:
+      213: -3736734396893861893
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_550
+  - first:
+      213: 5206020357903131476
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_551
+  - first:
+      213: -5709160135155917423
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_552
+  - first:
+      213: -378757913941350687
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_553
+  - first:
+      213: -393219347065343837
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_554
+  - first:
+      213: -1197689957699029278
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_555
+  - first:
+      213: -4372728800815020301
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_556
+  - first:
+      213: -6422718489243109249
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_557
+  - first:
+      213: -2505996059684550909
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_558
+  - first:
+      213: 8030439957123503312
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_559
+  - first:
+      213: 2730390677561266905
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_560
+  - first:
+      213: 5988075392719723133
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_561
+  - first:
+      213: -3579534769690596961
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_562
+  - first:
+      213: -2700711499402787760
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_563
+  - first:
+      213: 6614487863340434389
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_564
+  - first:
+      213: -7160761205133729662
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_565
+  - first:
+      213: 8411325374948011505
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_566
+  - first:
+      213: -897212975938262700
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_567
+  - first:
+      213: 5353735645334652786
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_568
+  - first:
+      213: -2260551646170784265
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_569
+  - first:
+      213: -6802418129109032418
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_570
+  - first:
+      213: -2940539465336113625
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_571
+  - first:
+      213: -709852464332915086
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_572
+  - first:
+      213: -8619318862593036633
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_573
+  - first:
+      213: -3561513177354462306
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_574
+  - first:
+      213: 3596440322387602762
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_575
+  - first:
+      213: 1415019714117984973
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_576
+  - first:
+      213: -8863128976425517033
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_577
+  - first:
+      213: 4834215900752206740
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_578
+  - first:
+      213: 3412422901917668996
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_579
+  - first:
+      213: -5460382449840982993
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_580
+  - first:
+      213: -7607923605126778368
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_581
+  - first:
+      213: -2628815042691925636
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_582
+  - first:
+      213: -5031142056904188261
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_583
+  - first:
+      213: 8259545401582516791
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_584
+  - first:
+      213: 3927949058565359600
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_585
+  - first:
+      213: -4781881541270306662
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_586
+  - first:
+      213: -3649154526900939420
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_587
+  - first:
+      213: 7352218574991530940
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_588
+  - first:
+      213: 6007495097121749163
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_589
+  - first:
+      213: -2108811299059191014
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_590
+  - first:
+      213: -57184243014901234
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_591
+  - first:
+      213: -3105851302430847963
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_592
+  - first:
+      213: 7188338698562979447
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_593
+  - first:
+      213: -7519114244526268205
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_594
+  - first:
+      213: 8436845935286500002
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_595
+  - first:
+      213: 5707296461084941749
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_596
+  - first:
+      213: -7097167986928511888
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_597
+  - first:
+      213: 716627555273084174
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_598
+  - first:
+      213: -924288274605646842
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_599
+  - first:
+      213: -5305576383672018221
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_600
+  - first:
+      213: 6621724348000678015
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_601
+  - first:
+      213: 6580567031890055361
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_602
+  - first:
+      213: -1178547026366666629
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_603
+  - first:
+      213: -2507532850335560251
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_604
+  - first:
+      213: -510087091305061075
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_605
+  - first:
+      213: 1927484980415100482
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_606
+  - first:
+      213: -8023204917694683383
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_607
+  - first:
+      213: 8816351656982644523
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_608
+  - first:
+      213: -3576287952143366155
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_609
+  - first:
+      213: 6149191925566310022
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_610
+  - first:
+      213: 448773101529929331
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_611
+  - first:
+      213: -8665604738285203917
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_612
+  - first:
+      213: -101559813833136208
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_613
+  - first:
+      213: 7430243063694384327
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_614
+  - first:
+      213: 881453545400402040
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_615
+  - first:
+      213: 7177929536875477395
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_616
+  - first:
+      213: -2210837785131346697
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_617
+  - first:
+      213: -1044463615223996026
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_618
+  - first:
+      213: 1142664822730448600
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_619
+  - first:
+      213: 6134270524333219977
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_620
+  - first:
+      213: 8389390230724946921
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_621
+  - first:
+      213: -7989068595715659890
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_622
+  - first:
+      213: 4063480873985864797
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_623
+  - first:
+      213: 9024386986692887419
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_624
+  - first:
+      213: 4677587335232117719
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_625
+  - first:
+      213: 504510388871761252
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_626
+  - first:
+      213: -5233873810344412450
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_627
+  - first:
+      213: 8051498326121754160
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_628
+  - first:
+      213: 6324991627351758394
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_629
+  - first:
+      213: 547664886657059271
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_630
+  - first:
+      213: 7281814117589211475
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_631
+  - first:
+      213: -5128231603576006877
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_632
+  - first:
+      213: -378054277561013368
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_633
+  - first:
+      213: -5656642097118344940
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_634
+  - first:
+      213: 8622430092513010159
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_635
+  - first:
+      213: 1981135739426561712
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_636
+  - first:
+      213: 2214313984422394648
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_637
+  - first:
+      213: -2206406481244917114
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_638
+  - first:
+      213: -8168915104860999211
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_639
+  - first:
+      213: -605230715800954611
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_640
+  - first:
+      213: 7842158076418591688
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_641
+  - first:
+      213: 2124512013432442597
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_642
+  - first:
+      213: -7503207107392964862
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_643
+  - first:
+      213: -7733447308155266514
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_644
+  - first:
+      213: 5651787709207805872
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_645
+  - first:
+      213: -3110444767408481665
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_646
+  - first:
+      213: -2213775318444057698
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_647
+  - first:
+      213: 7128856209870003506
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_648
+  - first:
+      213: -7624203699066924848
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_649
+  - first:
+      213: -6598472116482134753
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_650
+  - first:
+      213: 6984663021111257684
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_651
+  - first:
+      213: -8980043439857664301
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_652
+  - first:
+      213: -5298159517761423376
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_653
+  - first:
+      213: 6692721619240783304
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_654
+  - first:
+      213: 3969480742356083164
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_655
+  - first:
+      213: -3244946494130290170
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_656
+  - first:
+      213: -7788908601635654960
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_657
+  - first:
+      213: 4470805994960450312
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_658
+  - first:
+      213: -8509830710788399485
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_659
+  - first:
+      213: 2913628137317602152
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_660
+  - first:
+      213: 4543079267669455630
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_661
+  - first:
+      213: -4770923806308264349
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_662
+  - first:
+      213: 7315731128231958126
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_663
+  - first:
+      213: -8058944082427630189
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_664
+  - first:
+      213: -5408145757278896968
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_665
+  - first:
+      213: 1830153822134396174
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_666
+  - first:
+      213: 8124360555946661265
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_667
+  - first:
+      213: 6741114513311135867
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_668
+  - first:
+      213: 6374198229275239069
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_669
+  - first:
+      213: 3713691242604225774
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_670
+  - first:
+      213: 6884543564106826023
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_671
+  - first:
+      213: -7432536659248634117
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_672
+  - first:
+      213: -7051633519293372233
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_673
+  - first:
+      213: -5724564891021725527
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_674
+  - first:
+      213: -7357172421167999056
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_675
+  - first:
+      213: -3182048885581817160
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_676
+  - first:
+      213: -6655151216495947512
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_677
+  - first:
+      213: -6477670913410079381
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_678
+  - first:
+      213: -1823934857399742384
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_679
+  - first:
+      213: -197489203353390155
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_680
+  - first:
+      213: -1215351918597514519
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_681
+  - first:
+      213: -4427318636081300490
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_682
+  - first:
+      213: -8524931842089201394
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_683
+  - first:
+      213: -5115919215050346764
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_684
+  - first:
+      213: 717010539577948052
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_685
+  - first:
+      213: 3539271906898566635
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_686
+  - first:
+      213: 9104814234319084766
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_687
+  - first:
+      213: 6572915018091343987
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_688
+  - first:
+      213: 6893731160417080603
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_689
+  - first:
+      213: 2709742814251377231
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_690
+  - first:
+      213: 7139591155362320313
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_691
+  - first:
+      213: 4602920034068827628
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_692
+  - first:
+      213: -8133273295926109202
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_693
+  - first:
+      213: 4178559971683012081
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_694
+  - first:
+      213: -1199316278502743287
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_695
+  - first:
+      213: -294744351625675677
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_696
+  - first:
+      213: 4363064821251101415
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_697
+  - first:
+      213: -6413213079979555671
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_698
+  - first:
+      213: -2838041465341660482
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_699
+  - first:
+      213: 6088347821020067540
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_700
+  - first:
+      213: 3621632260520447797
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_701
+  - first:
+      213: 1186923800944867154
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_702
+  - first:
+      213: 4565019999422436150
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_703
+  - first:
+      213: -9220989621426172404
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_704
+  - first:
+      213: -5050452668553866191
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_705
+  - first:
+      213: 7183747947773727822
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_706
+  - first:
+      213: -6681509959451734196
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_707
+  - first:
+      213: -4617470376762413206
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_708
+  - first:
+      213: -4939929888922807930
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_709
+  - first:
+      213: -2547176754001829813
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_710
+  - first:
+      213: 2902179477526891197
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_711
+  - first:
+      213: 8394123385468395351
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_712
+  - first:
+      213: -473336320945517008
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_713
+  - first:
+      213: 4155061948634595521
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_714
+  - first:
+      213: -2898963964051495127
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_715
+  - first:
+      213: 8155523100041597969
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_716
+  - first:
+      213: -8609386347258423639
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_717
+  - first:
+      213: -3737853234269628659
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_718
+  - first:
+      213: -6710265147162393701
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_719
+  - first:
+      213: -5366965134687003007
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_720
+  - first:
+      213: -7344875610230892702
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_721
+  - first:
+      213: -2498246940905171891
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_722
+  - first:
+      213: 7828766103871298358
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_723
+  - first:
+      213: -6478596400731023398
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_724
+  - first:
+      213: 6796674973094175200
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_725
+  - first:
+      213: -8157555799468839492
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_726
+  - first:
+      213: -3976521425671488785
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_727
+  - first:
+      213: -7268180967630126293
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_728
+  - first:
+      213: 3753103537838989469
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_729
+  - first:
+      213: -2141693690335499302
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_730
+  - first:
+      213: -7696661689722869941
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_731
+  - first:
+      213: 7511370082462883993
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_732
+  - first:
+      213: 4511302537989200847
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_733
+  - first:
+      213: 8191398816256640851
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_734
+  - first:
+      213: -716362200496183122
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_735
+  - first:
+      213: 8144701979170115217
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_736
+  - first:
+      213: -1010650592497257262
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_737
+  - first:
+      213: 5344325684973897122
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_738
+  - first:
+      213: 8611248923670813177
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_739
+  - first:
+      213: -2967561305508745084
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_740
+  - first:
+      213: -4478749441906142420
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_741
+  - first:
+      213: 1351846416923812721
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_742
+  - first:
+      213: -1596113423211719998
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_743
+  - first:
+      213: 679474332017536046
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_744
+  - first:
+      213: 6757692775020806223
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_745
+  - first:
+      213: -4709239350785818407
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_746
+  - first:
+      213: -5482610760101060498
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_747
+  - first:
+      213: -4549631864674914321
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_748
+  - first:
+      213: -3676025977938748084
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_749
+  - first:
+      213: -4188870477961371894
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_750
+  - first:
+      213: -5978215841229041695
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_751
+  - first:
+      213: -6139618903252879102
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_752
+  - first:
+      213: -5381733708136284197
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_753
+  - first:
+      213: -1652296534720410823
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_754
+  - first:
+      213: -2635585763323545872
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_755
+  - first:
+      213: 4267590843212570348
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_756
+  - first:
+      213: 5458615839268114274
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_757
+  - first:
+      213: -1940262561159534105
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_758
+  - first:
+      213: 4336051216870331576
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_759
+  - first:
+      213: 6346397555976392796
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_760
+  - first:
+      213: 968938144432587615
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_761
+  - first:
+      213: 3790940112696625053
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_762
+  - first:
+      213: 3630304534593245369
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_763
+  - first:
+      213: -5251692162631277948
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_764
+  - first:
+      213: -2713292925695040590
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_765
+  - first:
+      213: 7395572788685256683
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_766
+  - first:
+      213: 7947078750093873262
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_767
+  - first:
+      213: 1907688775536582625
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_768
+  - first:
+      213: 4387946993820242136
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_769
+  - first:
+      213: 4842964268918357649
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_770
+  - first:
+      213: -1544235684365175368
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_771
+  - first:
+      213: 2395370102560638364
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_772
+  - first:
+      213: -9222355635884332105
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_773
+  - first:
+      213: -1775908517450999328
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_774
+  - first:
+      213: -149899741911344641
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_775
+  - first:
+      213: -4925430224678383113
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_776
+  - first:
+      213: 3653149733699783031
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_777
+  - first:
+      213: -2498412259295798098
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_778
+  - first:
+      213: -15243532149581235
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_779
+  - first:
+      213: -2675818699099806394
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_780
+  - first:
+      213: -438117058925574205
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_781
+  - first:
+      213: 7344462829082487639
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_782
+  - first:
+      213: -255495641492083658
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_783
+  - first:
+      213: 4644667046121491657
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_784
+  - first:
+      213: -3108927961985681707
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_785
+  - first:
+      213: -3174519266478829023
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_786
+  - first:
+      213: 4987000569073997255
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_787
+  - first:
+      213: -7226928559803479163
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_788
+  - first:
+      213: 5877002705890687056
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_789
+  - first:
+      213: 2182333812333464309
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_790
+  - first:
+      213: -7706845291238616185
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_791
+  - first:
+      213: 1427527312098790177
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_792
+  - first:
+      213: -7319111504090101894
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_793
+  - first:
+      213: -4693751269690336345
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_794
+  - first:
+      213: 6093762824031610575
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_795
+  - first:
+      213: -6092269686867200071
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_796
+  - first:
+      213: -4301888616714823908
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_797
+  - first:
+      213: -8709540164075804714
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_798
+  - first:
+      213: 8488056550015593441
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_799
+  - first:
+      213: -4140281972448866825
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_800
+  - first:
+      213: -5405615320520930364
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_801
+  - first:
+      213: -7617603781838643929
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_802
+  - first:
+      213: 2442076856039601030
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_803
+  - first:
+      213: -2999680974955783838
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_804
+  - first:
+      213: 829662658931766553
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_805
+  - first:
+      213: -3965566440229015222
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_806
+  - first:
+      213: -6460412851326491217
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_807
+  - first:
+      213: -4602645415624097796
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_808
+  - first:
+      213: 3265548011655986328
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_809
+  - first:
+      213: 6480203123074473383
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_810
+  - first:
+      213: -2405905985859893188
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_811
+  - first:
+      213: 7907728005036628154
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_812
+  - first:
+      213: 4286692949179156302
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_813
+  - first:
+      213: -3684883435586950451
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_814
+  - first:
+      213: 5873230260220912779
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_815
+  - first:
+      213: -4518633236132947359
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_816
+  - first:
+      213: 1889353977323244773
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_817
+  - first:
+      213: 1005930313272776100
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_818
+  - first:
+      213: 6200969098504974799
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_819
+  - first:
+      213: 3736682449502114871
+    second: Mobile - Cookie Run - Episode 1 - Escape from the Oven_820
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +2504,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -68,7 +2531,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +2564,889 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4384
+        width: 572
+        height: 325
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef172ff218992100800000000000000
+      internalID: 83765275440652266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 4383
+        width: 867
+        height: 321
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf3b3a456752c70800000000000000
+      internalID: 8945686340737170626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4390
+        width: 1000
+        height: 330
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7eba06f8a582cd0800000000000000
+      internalID: -2582714814448277585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4052
+        width: 621
+        height: 323
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4855512b3d9e27630800000000000000
+      internalID: 3923455320828237188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_4
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 4047
+        width: 864
+        height: 321
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b949031717502b620800000000000000
+      internalID: 2788297104084210843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_5
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 4077
+        width: 401
+        height: 239
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3840844d8c9482980800000000000000
+      internalID: -8563513564541221757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3709
+        width: 587
+        height: 326
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271f83a8cc78ac620800000000000000
+      internalID: 2795195831298879858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 3709
+        width: 795
+        height: 321
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f03d9fc5cfcaa140800000000000000
+      internalID: 4731822807004819700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_8
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 3709
+        width: 851
+        height: 322
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747aa6bb0620b99f0800000000000000
+      internalID: -460771922390898873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3652
+        width: 571
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7951e97906a8cf0800000000000000
+      internalID: -249280625057097784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3379
+        width: 546
+        height: 315
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9582e898c5ba4c880800000000000000
+      internalID: -8591553775182927783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_11
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3385
+        width: 632
+        height: 289
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd25991121541510800000000000000
+      internalID: 1518928176935677426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3034
+        width: 573
+        height: 323
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781d3f6a1f62f4910800000000000000
+      internalID: 1823719193438310791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 3038
+        width: 749
+        height: 324
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bb67c99e091fda0800000000000000
+      internalID: -5912785502733944057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_14
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 3030
+        width: 730
+        height: 333
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b00475fbe55f650800000000000000
+      internalID: 6266018632451492766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2693
+        width: 603
+        height: 326
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879f0fe56d464c4d0800000000000000
+      internalID: -3115254170354910856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_16
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2699
+        width: 596
+        height: 320
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8009d90f74187170800000000000000
+      internalID: 8176307659349753999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_17
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 2698
+        width: 591
+        height: 316
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dad1df707fce6600800000000000000
+      internalID: 463535893753486038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2353
+        width: 605
+        height: 335
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12b509bc0ab10930800000000000000
+      internalID: 4107768898945135131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_19
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2363
+        width: 595
+        height: 323
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7dfd7187a13b730800000000000000
+      internalID: 4013580796016187313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_20
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2356
+        width: 602
+        height: 328
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc7c15fb416378f0800000000000000
+      internalID: -543984151118971655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2024
+        width: 576
+        height: 317
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3cb0a805a756580800000000000000
+      internalID: -8834520607685360734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_22
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2009
+        width: 856
+        height: 336
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94711cc3bad20edd0800000000000000
+      internalID: -2458915183062345911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_23
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2080
+        width: 1000
+        height: 330
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eba0423ba5f15040800000000000000
+      internalID: 4634755607172262881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1688
+        width: 678
+        height: 320
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35f16dec3fb9790800000000000000
+      internalID: -7522150682911091739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_25
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1702
+        width: 1299
+        height: 309
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceb9151f6715e3d0800000000000000
+      internalID: -3178108196177199417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_26
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1702
+        width: 867
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2434170882941b30800000000000000
+      internalID: 4257188660703933485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1348
+        width: 732
+        height: 315
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78362e85c96457d60800000000000000
+      internalID: 7887287959729365895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_28
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1352
+        width: 866
+        height: 315
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdca2f0097119460800000000000000
+      internalID: 7246599182913031602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_29
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1420
+        width: 1000
+        height: 330
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4db6ec63dc7a5e30800000000000000
+      internalID: 4493040825762495821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 591
+        height: 317
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169361da5622ef90800000000000000
+      internalID: -6925931105440524784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_31
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1012
+        width: 881
+        height: 325
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d4819be102ce540800000000000000
+      internalID: 5038437399447227749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_32
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1016
+        width: 860
+        height: 325
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342d5e64e6fb49890800000000000000
+      internalID: -7452121003034553789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 676
+        width: 959
+        height: 316
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8879bd4d117aa80800000000000000
+      internalID: -8455770169449936713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 673
+        width: 964
+        height: 323
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d2742164a637610800000000000000
+      internalID: 1617753540343049626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_35
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 681
+        width: 510
+        height: 279
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92b0070e0678c1c0800000000000000
+      internalID: -4483203626428222818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 865
+        height: 315
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee32b995cb48c40800000000000000
+      internalID: 5513738936849264151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_37
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 332
+        width: 863
+        height: 323
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa40c4d437733ce0800000000000000
+      internalID: -1426665588154938630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_38
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 328
+        width: 864
+        height: 334
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b07061fe5dc9c9c0800000000000000
+      internalID: -3906365394106945359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 862
+        height: 321
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db900bb8cf98f1a0800000000000000
+      internalID: -6775489954899256368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_40
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 866
+        height: 321
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2639ef0cdef7e6ad0800000000000000
+      internalID: -2707085666881203358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_41
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 0
+        width: 871
+        height: 330
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd961e4689cd5f10800000000000000
+      internalID: 2260184166682762696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

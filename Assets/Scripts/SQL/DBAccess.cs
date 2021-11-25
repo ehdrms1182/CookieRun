@@ -31,7 +31,7 @@ public class DBAccess : MonoBehaviour
         while (reader.Read())
         {
             // 변수타입은 컬럼 데이터 타입에 맞추면 된다.
-            string UserID = reader.GetString(1);
+            string UserID = reader.GetString(0);
             string Password = reader.GetString(1);
             Debug.Log("연결 성공");
             Debug.Log($"UserID = {UserID} + Password = {Password}");

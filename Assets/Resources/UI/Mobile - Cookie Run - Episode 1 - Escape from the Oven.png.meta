@@ -2569,10 +2569,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4384
-        width: 572
-        height: 325
+        x: 3
+        y: 4379
+        width: 565
+        height: 324
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2590,10 +2590,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_1
       rect:
         serializedVersion: 2
-        x: 573
-        y: 4383
-        width: 867
-        height: 321
+        x: 578
+        y: 4385
+        width: 853
+        height: 272
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2632,10 +2632,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_3
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 4052
-        width: 621
-        height: 323
+        width: 604
+        height: 310
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2653,10 +2653,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_4
       rect:
         serializedVersion: 2
-        x: 618
-        y: 4047
-        width: 864
-        height: 321
+        x: 626
+        y: 4048
+        width: 855
+        height: 313
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2695,10 +2695,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3709
-        width: 587
-        height: 326
+        x: 6
+        y: 3714
+        width: 581
+        height: 309
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2716,10 +2716,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_7
       rect:
         serializedVersion: 2
-        x: 597
-        y: 3709
-        width: 795
-        height: 321
+        x: 601
+        y: 3711
+        width: 787
+        height: 311
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2737,10 +2737,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_8
       rect:
         serializedVersion: 2
-        x: 1406
-        y: 3709
-        width: 851
-        height: 322
+        x: 1397
+        y: 3712
+        width: 853
+        height: 308
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2758,10 +2758,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3652
-        width: 571
-        height: 45
+        x: 5
+        y: 3643
+        width: 568
+        height: 48
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2781,8 +2781,8 @@ TextureImporter:
         serializedVersion: 2
         x: 584
         y: 3379
-        width: 546
-        height: 315
+        width: 529
+        height: 310
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2800,10 +2800,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_11
       rect:
         serializedVersion: 2
-        x: 2218
-        y: 3385
-        width: 632
-        height: 289
+        x: 1201
+        y: 2701
+        width: 680
+        height: 313
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2821,10 +2821,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3034
-        width: 573
-        height: 323
+        x: 3
+        y: 3039
+        width: 564
+        height: 309
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2842,10 +2842,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_13
       rect:
         serializedVersion: 2
-        x: 569
+        x: 578
         y: 3038
-        width: 749
-        height: 324
+        width: 738
+        height: 311
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2863,10 +2863,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_14
       rect:
         serializedVersion: 2
-        x: 1318
-        y: 3030
-        width: 730
-        height: 333
+        x: 1326
+        y: 3063
+        width: 712
+        height: 285
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2884,10 +2884,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2693
-        width: 603
-        height: 326
+        x: 8
+        y: 2711
+        width: 583
+        height: 297
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2905,10 +2905,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_16
       rect:
         serializedVersion: 2
-        x: 598
-        y: 2699
-        width: 596
-        height: 320
+        x: 613
+        y: 2743
+        width: 578
+        height: 269
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2927,9 +2927,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1895
-        y: 2698
-        width: 591
-        height: 316
+        y: 2703
+        width: 592
+        height: 311
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2947,10 +2947,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2353
-        width: 605
-        height: 335
+        x: 9
+        y: 2367
+        width: 581
+        height: 310
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2968,10 +2968,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_19
       rect:
         serializedVersion: 2
-        x: 606
-        y: 2363
-        width: 595
-        height: 323
+        x: 611
+        y: 2364
+        width: 591
+        height: 313
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2989,10 +2989,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_20
       rect:
         serializedVersion: 2
-        x: 1205
-        y: 2356
-        width: 602
-        height: 328
+        x: 1211
+        y: 2370
+        width: 590
+        height: 306
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3011,9 +3011,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2024
-        width: 576
-        height: 317
+        y: 2026
+        width: 571
+        height: 315
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3031,10 +3031,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_22
       rect:
         serializedVersion: 2
-        x: 577
-        y: 2009
-        width: 856
-        height: 336
+        x: 580
+        y: 2027
+        width: 853
+        height: 312
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3073,10 +3073,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1688
-        width: 678
-        height: 320
+        x: 10
+        y: 1693
+        width: 668
+        height: 309
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3094,8 +3094,8 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_25
       rect:
         serializedVersion: 2
-        x: 686
-        y: 1702
+        x: 693
+        y: 1694
         width: 1299
         height: 309
       alignment: 1
@@ -3115,10 +3115,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_26
       rect:
         serializedVersion: 2
-        x: 1993
-        y: 1702
-        width: 867
-        height: 311
+        x: 2033
+        y: 1704
+        width: 824
+        height: 292
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3137,9 +3137,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1348
-        width: 732
-        height: 315
+        y: 1351
+        width: 729
+        height: 312
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3158,9 +3158,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 736
-        y: 1352
-        width: 866
-        height: 315
+        y: 1356
+        width: 846
+        height: 311
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3178,10 +3178,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_29
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 1420
-        width: 1000
-        height: 330
+        x: 2455
+        y: 1399
+        width: 354
+        height: 222
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3199,10 +3199,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1020
-        width: 591
-        height: 317
+        x: 11
+        y: 1019
+        width: 585
+        height: 310
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3220,10 +3220,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_31
       rect:
         serializedVersion: 2
-        x: 588
-        y: 1012
-        width: 881
-        height: 325
+        x: 608
+        y: 1022
+        width: 848
+        height: 307
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3241,10 +3241,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_32
       rect:
         serializedVersion: 2
-        x: 1465
-        y: 1016
-        width: 860
-        height: 325
+        x: 1473
+        y: 1019
+        width: 843
+        height: 309
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3262,10 +3262,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_33
       rect:
         serializedVersion: 2
-        x: 4
-        y: 676
-        width: 959
-        height: 316
+        x: 8
+        y: 685
+        width: 942
+        height: 298
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3283,10 +3283,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_34
       rect:
         serializedVersion: 2
-        x: 960
-        y: 673
-        width: 964
-        height: 323
+        x: 966
+        y: 681
+        width: 946
+        height: 309
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3325,10 +3325,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_36
       rect:
         serializedVersion: 2
-        x: 0
-        y: 344
-        width: 865
-        height: 315
+        x: 7
+        y: 349
+        width: 847
+        height: 310
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3346,10 +3346,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_37
       rect:
         serializedVersion: 2
-        x: 866
-        y: 332
-        width: 863
-        height: 323
+        x: 878
+        y: 342
+        width: 842
+        height: 313
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3367,10 +3367,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_38
       rect:
         serializedVersion: 2
-        x: 1725
-        y: 328
-        width: 864
-        height: 334
+        x: 1740
+        y: 344
+        width: 844
+        height: 306
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3388,10 +3388,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_39
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 862
-        height: 321
+        x: 10
+        y: 12
+        width: 847
+        height: 299
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3409,10 +3409,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_40
       rect:
         serializedVersion: 2
-        x: 863
-        y: 0
-        width: 866
-        height: 321
+        x: 875
+        y: 7
+        width: 845
+        height: 309
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3430,10 +3430,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Episode 1 - Escape from the Oven_41
       rect:
         serializedVersion: 2
-        x: 1725
-        y: 0
-        width: 871
-        height: 330
+        x: 1734
+        y: 9
+        width: 848
+        height: 307
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}

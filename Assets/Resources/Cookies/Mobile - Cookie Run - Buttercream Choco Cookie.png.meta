@@ -380,9 +380,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 9
-        y: 1612
-        width: 312
-        height: 312
+        y: 1615
+        width: 307
+        height: 309
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,9 +401,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 331
-        y: 1612
-        width: 312
-        height: 312
+        y: 1614
+        width: 307
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,12 +422,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 653
-        y: 1612
-        width: 312
-        height: 312
+        y: 1611
+        width: 310
+        height: 313
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 3, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -443,9 +443,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 975
-        y: 1612
-        width: 312
-        height: 312
+        y: 1614
+        width: 305
+        height: 309
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,9 +464,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1297
-        y: 1612
-        width: 312
-        height: 312
+        y: 1614
+        width: 306
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +484,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Buttercream Choco Cookie_5
       rect:
         serializedVersion: 2
-        x: 1619
-        y: 1612
-        width: 312
-        height: 312
+        x: 1618
+        y: 1614
+        width: 298
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,9 +506,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1941
-        y: 1612
-        width: 312
-        height: 312
+        y: 1614
+        width: 297
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,9 +527,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2263
-        y: 1612
-        width: 312
-        height: 312
+        y: 1614
+        width: 296
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,9 +548,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2585
-        y: 1612
-        width: 312
-        height: 312
+        y: 1614
+        width: 306
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -569,9 +569,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2907
-        y: 1612
-        width: 312
-        height: 312
+        y: 1613
+        width: 313
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,9 +590,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3229
-        y: 1612
-        width: 312
-        height: 312
+        y: 1613
+        width: 306
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,9 +611,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 9
-        y: 1290
-        width: 312
-        height: 312
+        y: 1291
+        width: 302
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,9 +632,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 331
-        y: 1290
-        width: 312
-        height: 312
+        y: 1291
+        width: 299
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,9 +653,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 653
-        y: 1290
-        width: 312
-        height: 312
+        y: 1293
+        width: 301
+        height: 309
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,9 +674,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 975
-        y: 1290
-        width: 312
-        height: 312
+        y: 1291
+        width: 292
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,11 +696,11 @@ TextureImporter:
         serializedVersion: 2
         x: 1297
         y: 1290
-        width: 312
-        height: 312
+        width: 308
+        height: 321
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -715,10 +715,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Buttercream Choco Cookie_16
       rect:
         serializedVersion: 2
-        x: 1619
-        y: 1290
-        width: 312
-        height: 312
+        x: 1648
+        y: 1291
+        width: 263
+        height: 318
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -736,10 +736,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Buttercream Choco Cookie_17
       rect:
         serializedVersion: 2
-        x: 1941
-        y: 1290
-        width: 312
-        height: 312
+        x: 1939
+        y: 1291
+        width: 311
+        height: 318
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,9 +758,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2263
-        y: 1290
-        width: 312
-        height: 312
+        y: 1292
+        width: 300
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -841,10 +841,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Buttercream Choco Cookie_22
       rect:
         serializedVersion: 2
-        x: 9
-        y: 968
-        width: 312
-        height: 312
+        x: 8
+        y: 969
+        width: 298
+        height: 308
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -863,9 +863,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 331
-        y: 968
-        width: 312
-        height: 312
+        y: 969
+        width: 308
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -884,9 +884,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 653
-        y: 968
-        width: 312
-        height: 312
+        y: 970
+        width: 307
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -905,9 +905,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 975
-        y: 968
-        width: 312
-        height: 312
+        y: 970
+        width: 306
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -926,9 +926,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1297
-        y: 968
-        width: 312
-        height: 312
+        y: 969
+        width: 304
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -947,9 +947,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1619
-        y: 968
-        width: 312
-        height: 312
+        y: 969
+        width: 306
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -967,10 +967,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Buttercream Choco Cookie_28
       rect:
         serializedVersion: 2
-        x: 1941
-        y: 968
-        width: 312
-        height: 312
+        x: 1947
+        y: 969
+        width: 301
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -989,9 +989,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2263
-        y: 968
-        width: 312
-        height: 312
+        y: 969
+        width: 298
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1009,10 +1009,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Buttercream Choco Cookie_30
       rect:
         serializedVersion: 2
-        x: 2585
-        y: 968
-        width: 312
-        height: 312
+        x: 2583
+        y: 970
+        width: 306
+        height: 281
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,9 +1073,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 9
-        y: 646
-        width: 312
-        height: 312
+        y: 651
+        width: 298
+        height: 307
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1094,9 +1094,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 331
-        y: 646
-        width: 312
-        height: 312
+        y: 657
+        width: 297
+        height: 301
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1115,9 +1115,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 653
-        y: 646
-        width: 312
-        height: 312
+        y: 654
+        width: 302
+        height: 304
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1136,9 +1136,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 975
-        y: 646
-        width: 312
-        height: 312
+        y: 649
+        width: 306
+        height: 309
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1157,9 +1157,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1297
-        y: 646
-        width: 312
-        height: 312
+        y: 654
+        width: 303
+        height: 304
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1179,7 +1179,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1619
         y: 646
-        width: 312
+        width: 303
         height: 312
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1199,9 +1199,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1941
-        y: 646
-        width: 312
-        height: 312
+        y: 649
+        width: 303
+        height: 309
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1220,9 +1220,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2263
-        y: 646
-        width: 312
-        height: 312
+        y: 647
+        width: 302
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1242,7 +1242,7 @@ TextureImporter:
         serializedVersion: 2
         x: 2585
         y: 646
-        width: 312
+        width: 304
         height: 312
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1304,9 +1304,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 9
-        y: 324
-        width: 312
-        height: 312
+        y: 326
+        width: 308
+        height: 310
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1325,9 +1325,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 331
-        y: 324
-        width: 312
-        height: 312
+        y: 326
+        width: 306
+        height: 307
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1346,9 +1346,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 653
-        y: 324
-        width: 312
-        height: 312
+        y: 325
+        width: 310
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1367,9 +1367,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 975
-        y: 324
-        width: 312
-        height: 312
+        y: 325
+        width: 309
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1388,9 +1388,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1297
-        y: 324
-        width: 312
-        height: 312
+        y: 325
+        width: 310
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1409,9 +1409,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1619
-        y: 324
-        width: 312
-        height: 312
+        y: 328
+        width: 307
+        height: 308
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1429,10 +1429,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Buttercream Choco Cookie_50
       rect:
         serializedVersion: 2
-        x: 1941
-        y: 324
-        width: 312
-        height: 312
+        x: 1937
+        y: 325
+        width: 302
+        height: 316
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,34 +1447,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mobile - Cookie Run - Buttercream Choco Cookie_51
-      rect:
-        serializedVersion: 2
-        x: 2263
-        y: 324
-        width: 312
-        height: 312
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cac507c0b989cb0b0800000000000000
-      internalID: -5711522435716588372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Mobile - Cookie Run - Buttercream Choco Cookie_52
       rect:
         serializedVersion: 2
         x: 2585
-        y: 324
-        width: 312
-        height: 312
+        y: 327
+        width: 306
+        height: 311
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1493,9 +1472,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2907
-        y: 324
-        width: 312
-        height: 312
+        y: 327
+        width: 309
+        height: 308
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1535,9 +1514,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 9
-        y: 2
-        width: 312
-        height: 312
+        y: 12
+        width: 310
+        height: 302
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1556,9 +1535,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 331
-        y: 2
-        width: 312
-        height: 312
+        y: 12
+        width: 305
+        height: 302
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1577,9 +1556,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 653
-        y: 2
-        width: 312
-        height: 312
+        y: 14
+        width: 304
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1598,9 +1577,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 975
-        y: 2
-        width: 312
-        height: 312
+        y: 12
+        width: 299
+        height: 302
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1618,10 +1597,10 @@ TextureImporter:
       name: Mobile - Cookie Run - Buttercream Choco Cookie_59
       rect:
         serializedVersion: 2
-        x: 1297
-        y: 2
-        width: 312
-        height: 312
+        x: 1295
+        y: 9
+        width: 302
+        height: 299
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1682,9 +1661,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2263
-        y: 2
-        width: 312
-        height: 312
+        y: 326
+        width: 307
+        height: 314
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1757,6 +1736,48 @@ TextureImporter:
       bones: []
       spriteID: bb39c0ea379aa1b80800000000000000
       internalID: -8423233838736698437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1609
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c542a53a368cabe20800000000000000
+      internalID: 3367224001680778332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Buttercream Choco Cookie_67
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 301
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35010d4e90ba97270800000000000000
+      internalID: 8248812251487670355
       vertices: []
       indices: 
       edges: []

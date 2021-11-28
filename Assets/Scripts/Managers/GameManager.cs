@@ -8,9 +8,11 @@ using UnityEngine.SceneManagement;
 public class GameManager : Singleton<GameManager>
 {
     private bool isInit;
-
+    public bool isStart;
+    
     [SerializeField]
-    TextMeshProUGUI counts;
+    GameObject startCheck;
+    //TextMeshProUGUI counts;
 
     protected override void Awake()
     {
@@ -20,6 +22,15 @@ public class GameManager : Singleton<GameManager>
         {
             DontDestroyOnLoad(this);
             isInit = true;
+        }
+    }
+    void Start()
+    {
+        isStart = true;
+        
+        if (isStart)
+        {
+            startCheck.SetActive(false);
         }
     }
     public void OnApplicationSetting()
@@ -34,6 +45,7 @@ public class GameManager : Singleton<GameManager>
     }
     IEnumerator GameStart()
     {
+
         yield return null; 
     }
     IEnumerator GameEnd()

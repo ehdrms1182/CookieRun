@@ -8,10 +8,7 @@ using UnityEngine.SceneManagement;
 public class GameManager : Singleton<GameManager>
 {
     private bool isInit;
-    public bool isStart;
-    
-    [SerializeField]
-    GameObject startCheck;
+       
     //TextMeshProUGUI counts;
 
     protected override void Awake()
@@ -24,15 +21,7 @@ public class GameManager : Singleton<GameManager>
             isInit = true;
         }
     }
-    void Start()
-    {
-        isStart = true;
-        
-        if (isStart)
-        {
-            startCheck.SetActive(false);
-        }
-    }
+    
     public void OnApplicationSetting()
     {
         // 수직동기화 끄기

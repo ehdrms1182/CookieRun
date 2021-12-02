@@ -14,7 +14,7 @@ public class GameManager : Singleton<GameManager>
     protected override void Awake()
     {
         base.Awake();
-
+        OnApplicationSetting();
         if (instance != null)
         {
             DontDestroyOnLoad(this);
@@ -24,11 +24,11 @@ public class GameManager : Singleton<GameManager>
     
     public void OnApplicationSetting()
     {
-        // ¼öÁ÷µ¿±âÈ­ ²ô±â
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È­ ï¿½ï¿½ï¿½ï¿½
         QualitySettings.vSyncCount = 0;
-        // ·»´õ ÇÁ·¹ÀÓÀ» 60À¸·Î ¼³Á¤
+        // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 60ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
         Application.targetFrameRate = 60;
-        // ¾Û ½ÇÇà Áß Àå½Ã°£ ´ë±â ½Ã¿¡µµ È­¸éÀÌ ²¨ÁöÁö ¾Ê°Ô
+        // ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½Ã°ï¿½ ï¿½ï¿½ï¿½ ï¿½Ã¿ï¿½ï¿½ï¿½ È­ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê°ï¿½
         //Screen.sleepTimeout = SleepTimeout.NeverSleep;
 
     }

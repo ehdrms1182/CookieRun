@@ -15,17 +15,19 @@ public class CharacterJump : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
+            isJump = true;
+        }
+        if(isJump)
+        {
             if (jumpCount == 0)
             {
-                isJump = true;
-                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, firstJump, 0);
+                gameObject.transform.position = Vector2.Lerp(transform.position,new Vector2(gameObject.transform.position.x,firstJump),Time.smoothDeltaTime);
                 jumpCount++;
             }
             else if (isJump == true && jumpCount == 1)
             {
                 gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, secondJump, 0);
                 isJump = false;
-
             }
         }
     }
@@ -33,7 +35,7 @@ public class CharacterJump : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Ground"))
         {
-            Debug.Log("ÂøÁö");
+            Debug.Log("ì°©ì§€");
             jumpCount = 0;
             isJump = false;
         }

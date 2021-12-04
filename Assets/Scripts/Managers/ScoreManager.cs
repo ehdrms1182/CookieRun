@@ -2,17 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class ScoreManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    GameManager gameManager;
+    CharacterStats characterStats;
+    private void Update() 
     {
-        
-    }
+        if (0 >= characterStats.HPbar.size)
+        {
+            gameManager.gameOver = true;
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        if (transform.position.y < -10)
+        {
+            gameManager.gameOver = true;
+        }
     }
+    
 }

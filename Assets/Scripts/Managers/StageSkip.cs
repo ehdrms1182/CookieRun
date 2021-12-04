@@ -11,7 +11,7 @@ public class StageSkip : MonoBehaviour
     }
     public bool isStart = false;
     public NextStageType nextStageType;
-    public Transform Destination; //½ºÅ×ÀÌÁö°¡ ³¡³ª´Â°÷
+    public Transform Destination; //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Â°ï¿½
 
     [SerializeField]
     GameObject startCheck;
@@ -34,7 +34,7 @@ public class StageSkip : MonoBehaviour
             }
             else if(nextStageType == NextStageType.SomeStage)
             {
-                Debug.Log("ÀÌµ¿");
+                Debug.Log("Move");
                 other.transform.position = Destination.position;
             }
             else

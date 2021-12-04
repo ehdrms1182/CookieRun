@@ -8,8 +8,11 @@ using UnityEngine.SceneManagement;
 public class GameManager : Singleton<GameManager>
 {
     private bool isInit;
-       
-    //TextMeshProUGUI counts;
+    public bool gameOver
+    {
+        get {return gameOver;}
+        set {gameOver = value;}
+    }
 
     protected override void Awake()
     {
@@ -21,24 +24,22 @@ public class GameManager : Singleton<GameManager>
             isInit = true;
         }
     }
+    private void Start() 
+    {
+        StartCoroutine(GameStart()); 
+    }
     
     public void OnApplicationSetting()
     {
-        // ��������ȭ ����
-        QualitySettings.vSyncCount = 0;
-        // ���� �������� 60���� ����
         Application.targetFrameRate = 60;
-        // �� ���� �� ��ð� ��� �ÿ��� ȭ���� ������ �ʰ�
-        //Screen.sleepTimeout = SleepTimeout.NeverSleep;
-
     }
     IEnumerator GameStart()
     {
 
-        yield return null; 
+        yield return gameOver = false;
     }
     IEnumerator GameEnd()
     {
-        yield return null;
+        yield return gameOver = true;
     }
 }

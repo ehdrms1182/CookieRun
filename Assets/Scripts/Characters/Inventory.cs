@@ -7,4 +7,10 @@ public class Inventory : MonoBehaviour
     GameObject braveCookie;
     GameObject butterCookie;
     GameObject santerCookie;
+
+    GameObject currentCookie;
+    void SelectCookie()
+    {
+        currentCookie = braveCookie;
+    }
 }

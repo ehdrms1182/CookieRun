@@ -1,46 +1,49 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CharacterMove : MonoBehaviour
 {
-    public const float firstJump = 13f;
-    public const float secondJump = 17f;
-    public const float jumpSpeed = 10f;
-
-    [SerializeField]
-    private bool isJump = false;
-    private bool isSlide = false;
-    private int jumpCount = 0;
-
-    public void ExecuteJump()
+    public const float jump = 5f;
+    public bool isSlide = false;
+    public int jumpCount = 0;
+    public Scrollbar hpBar;
+    public float characterHp = 100;
+    
+    private void Start() 
     {
-        if(!isSlide&&isJump)
+        transform.parent.position = gameObject.transform.position;
+    }    
+    public void Jump()
+    {
+
+        if (
+            //Input.GetMouseButton(0) && 
+            jumpCount == 0&&!isSlide)
         {
-            if (Input.GetMouseButtonDown(0) && jumpCount == 0)
-            {
-                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, firstJump, 0);
-                jumpCount++;
-            }
-            if (Input.GetMouseButtonDown(0) && jumpCount == 1)
-            {
-                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, firstJump, 0);
-                jumpCount++;
-            }
-            if (jumpCount == 2)
-            {
-                isJump = false;
-            }
+            gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump, 0);
+            jumpCount++;
+            Debug.Log("FirstJump");
         }
-        
+        if (
+            //Input.GetMouseButton(0) && 
+            jumpCount == 1 && !isSlide)
+        {
+            gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump+2, 0);
+            jumpCount++;
+            Debug.Log("SecondJump");
+        }
     }
+    /*
     public void ExecuteSlide()
     {
         if(isSlide&&!isJump)
         {
-            if (Input.GetMouseButtonDown(1))
+            if (Input.GetMouseButton(1))
             {
-                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, firstJump, 0);
+                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump, 0);
+                Debug.Log("Slide");
             }
             if (Input.GetMouseButtonUp(1))
             {
@@ -48,6 +51,7 @@ public class CharacterMove : MonoBehaviour
             }
         }
     }
+    */
     void OnCollisionEnter2D(Collision2D other) 
     {
         if (other.gameObject.CompareTag("Ground"))
@@ -55,22 +59,6 @@ public class CharacterMove : MonoBehaviour
             Debug.Log("Ground");
             jumpCount = 0;
         }
-        else
-            isJump = true;
     }
-    private void FixedUpdate()
-    {
-        ExecuteJump();
-        ExecuteSlide();
-        if (0 >= HealthBar.size)
-        {
-            cookieAni.SetBool("Die", true);
-            GameManager.instance.gameOver = true;
-        }
-
-        if (transform.position.y < -10)
-        {
-            GameManager.instance.gameOver = true;
-        }
-    }
+    
 }

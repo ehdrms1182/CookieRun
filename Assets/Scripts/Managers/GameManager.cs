@@ -1,19 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class GameManager : Singleton<GameManager>
 {
     private bool isInit;
-    public bool gameOver
-    {
-        get {return gameOver;}
-        set {gameOver = value;}
-    }
-
+    public bool gameOver {get; set;}
     protected override void Awake()
     {
         base.Awake();
@@ -26,7 +20,7 @@ public class GameManager : Singleton<GameManager>
     }
     private void Start() 
     {
-        StartCoroutine(GameStart()); 
+        StartCoroutine(GameStart());
     }
     
     public void OnApplicationSetting()
@@ -35,7 +29,6 @@ public class GameManager : Singleton<GameManager>
     }
     IEnumerator GameStart()
     {
-
         yield return gameOver = false;
     }
     IEnumerator GameEnd()

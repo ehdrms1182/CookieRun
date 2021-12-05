@@ -10,29 +10,35 @@ public class CharacterMove : MonoBehaviour
     public int jumpCount = 0;
     public Scrollbar hpBar;
     public float characterHp = 100;
+    public float timer = 0.1f;
     
     private void Start() 
     {
         transform.parent.position = gameObject.transform.position;
+        timer += Time.deltaTime;
     }    
     public void Jump()
     {
-
-        if (
-            //Input.GetMouseButton(0) && 
-            jumpCount == 0&&!isSlide)
+        
+        if(!isSlide )//&& timer == 0)
         {
-            gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump, 0);
-            jumpCount++;
-            Debug.Log("FirstJump");
-        }
-        if (
+            if (
+                //Input.GetMouseButton(0) && 
+                jumpCount == 1)
+            {
+                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump + 2, 0);
+                jumpCount++;
+                Debug.Log("SecondJump");
+            }
+            else if (
             //Input.GetMouseButton(0) && 
-            jumpCount == 1 && !isSlide)
-        {
-            gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump+2, 0);
-            jumpCount++;
-            Debug.Log("SecondJump");
+            jumpCount == 0)
+            {
+                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump, 0);
+                jumpCount++;
+                Debug.Log("FirstJump");
+            }
+            
         }
     }
     /*

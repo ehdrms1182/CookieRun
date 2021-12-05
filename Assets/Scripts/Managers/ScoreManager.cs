@@ -8,16 +8,16 @@ public class ScoreManager : MonoBehaviour
     GameManager gameManager;
     [SerializeField]
     CharacterMove characterMove;
+    [SerializeField]
+    GameObject endPanel;
     
-    float totalPlayTime = 0;
-    float currentPlayTime = 0;
+    public float playTime = 0;
     public int score = 0;
     void FixedUpdate()
     {
         if (!gameManager.gameOver)
         {
-            currentPlayTime += Time.fixedDeltaTime;
-            totalPlayTime += currentPlayTime;
+            playTime += Time.fixedDeltaTime;
         }
     }
     private void Update() 
@@ -28,12 +28,16 @@ public class ScoreManager : MonoBehaviour
     {
         if (0 >= characterMove.hpBar.size)
         {
+            Debug.Log("Over");
             gameManager.gameOver = true;
+            endPanel.SetActive(true);
             return score;
+
         }
-        if (transform.position.y < -10)
+        if (characterMove.transform.parent.position.y < -10)
         {
             gameManager.gameOver = true;
+            endPanel.SetActive(true);
             return score;
         }
         return 1;

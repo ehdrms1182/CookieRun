@@ -31,8 +31,4 @@ public class GameManager : Singleton<GameManager>
     {
         yield return gameOver = false;
     }
-    IEnumerator GameEnd()
-    {
-        yield return gameOver = true;
-    }
 }

@@ -8,20 +8,32 @@ public class Item : MonoBehaviour
     [SerializeField]
     CharacterMove characterMove;
     [SerializeField]
+    CookieInfo cookieInfo;
+    [SerializeField]
     ScoreManager scoreManager;
     [SerializeField]
     SoundManager soundManager;
+    /*
+    private void Start() 
+    {
+        characterMove = GetComponent<CharacterMove>();
+        cookieInfo = GetComponent<CookieInfo>();
+        scoreManager = GetComponent<ScoreManager>();
+        soundManager = GetComponent<SoundManager>();        
+    }
+    */
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        
         soundManager.PlayEattingSound();
         if (collision.gameObject.CompareTag("Potion"))
         {
-            characterMove.characterHp += 5f;
+            cookieInfo.characterHp += 5f;
             Destroy(collision.gameObject);
         }
         if (collision.gameObject.CompareTag("Obstacle"))
         {
-            characterMove.characterHp -= 10f;
+            cookieInfo.characterHp -= 10f;
             LifeRenew();
         }
         if (collision.gameObject.CompareTag("Jelly"))
@@ -38,9 +50,9 @@ public class Item : MonoBehaviour
 
     void LifeRenew()
     {
-        characterMove.isSlide = false;
-        characterMove.characterHp -= 0.05f;//20sec 0.02 50sec 
-        characterMove.hpBar.size = characterMove.characterHp / 100f;
+        cookieInfo.isSlide = false;
+        cookieInfo.characterHp -= 0.05f;//20sec 0.02 50sec 
+        characterMove.hpBar.size = cookieInfo.characterHp / 100f;    
     }
     private void FixedUpdate()
     {

@@ -5,37 +5,36 @@ using UnityEngine.UI;
 
 public class CharacterMove : MonoBehaviour
 {
-    public const float jump = 5f;
+    public float jump = 5f;
     public bool isSlide = false;
     public int jumpCount = 0;
-    public Scrollbar hpBar;
     public float characterHp = 100;
-    public float timer = 0.1f;
-    
+
+    public Scrollbar hpBar;
+    CookieInfo cookieInfo;
     private void Start() 
     {
         transform.parent.position = gameObject.transform.position;
-        timer += Time.deltaTime;
+        cookieInfo = GetComponent<CookieInfo>();
     }    
     public void Jump()
     {
-        
-        if(!isSlide )//&& timer == 0)
+        if(!(cookieInfo.isSlide))//&& timer == 0)
         {
             if (
                 //Input.GetMouseButton(0) && 
-                jumpCount == 1)
+                cookieInfo.jumpCount == 1)
             {
-                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump + 2, 0);
-                jumpCount++;
+                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0,cookieInfo.jump + 2, 0);
+                cookieInfo.jumpCount++;
                 Debug.Log("SecondJump");
             }
             else if (
             //Input.GetMouseButton(0) && 
-            jumpCount == 0)
+            cookieInfo.jumpCount == 0)
             {
-                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump, 0);
-                jumpCount++;
+                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, cookieInfo.jump, 0);
+                cookieInfo.jumpCount++;
                 Debug.Log("FirstJump");
             }
             
@@ -63,8 +62,7 @@ public class CharacterMove : MonoBehaviour
         if (other.gameObject.CompareTag("Ground"))
         {
             Debug.Log("Ground");
-            jumpCount = 0;
+            cookieInfo.jumpCount = 0;
         }
     }
-    
 }

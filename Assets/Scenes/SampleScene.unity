@@ -2145,13 +2145,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterMove: {fileID: 1533183970}
+  cookieInfo: {fileID: 1533183969}
   scoreManager: {fileID: 1185333161}
-  soundManager: {fileID: 0}
+  soundManager: {fileID: 1870920913}
 --- !u!1 &1533183968 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6010831565057701544, guid: b64c1464a0fca81418d93122aae31a2d, type: 3}
   m_PrefabInstance: {fileID: 6010831566209200456}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1533183969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533183968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0c47c38622224a41ab177164ded8e57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jump: 5
+  isSlide: 0
+  jumpCount: 0
+  characterHp: 100
 --- !u!114 &1533183970
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2164,11 +2181,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fbbe3a77b6b70144b22b87787463914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jump: 5
   isSlide: 0
   jumpCount: 0
-  hpBar: {fileID: 1503770631}
   characterHp: 100
-  timer: 0.1
+  hpBar: {fileID: 1503770631}
 --- !u!4 &1533183971 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6010831565057701547, guid: b64c1464a0fca81418d93122aae31a2d, type: 3}
@@ -3047,6 +3064,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterMove: {fileID: 1533183970}
+  cookieInfo: {fileID: 1533183969}
   scoreManager: {fileID: 1185333161}
   soundManager: {fileID: 1870920913}
 --- !u!1 &2114200488 stripped

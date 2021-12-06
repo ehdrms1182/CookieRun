@@ -4,11 +4,10 @@ using UnityEngine;
 
 public class Inventory : MonoBehaviour
 {
-    GameObject[] braveCookie;
-
+    GameObject[] cookie;
     GameObject currentCookie;
     void SelectCookie()
     {
-        currentCookie = braveCookie[0];
+        currentCookie = cookie[0];
     }
 }

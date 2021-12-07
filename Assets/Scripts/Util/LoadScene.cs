@@ -5,19 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour
 {
-    public enum SceneName
+    public void InGameScene()
     {
-        Login,
-        Lobby,
-        InGame
+        //SceneManager.LoadScene("InGame");
+        SceneManager.LoadScene("SampleScene");
     }
-    SceneName sceneName;
-    void OnClicked()
+    public void LobbyScene()
     {
-        
-        {
-            SceneManager.LoadScene("sceneName");
-        }
-    }
-    
+        SceneManager.LoadScene("Lobby");
+    }    
 }

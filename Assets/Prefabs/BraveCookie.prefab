@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6010831565057701549}
   - component: {fileID: 6010831565057701550}
   - component: {fileID: 6010831565057701548}
+  - component: {fileID: 7345431755374443209}
   m_Layer: 0
   m_Name: BraveCookie
   m_TagString: Cookie
@@ -225,3 +226,21 @@ PolygonCollider2D:
       - {x: 1.1091651, y: -1.8081568}
       - {x: 1.1237842, y: -1.8081568}
       - {x: 1.1091651, y: -1.7935376}
+--- !u!114 &7345431755374443209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6010831565057701544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1242a59c0ea5cde40a33a066429d73d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panels: []
+  isStart: 0
+  startButton: {fileID: 0}
+  cookieType: 0
+  cookies: []
+  inventory: {fileID: 0}

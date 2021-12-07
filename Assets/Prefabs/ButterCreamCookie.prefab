@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 581941967610064621}
   - component: {fileID: 581941967610064622}
   - component: {fileID: 581941967610064620}
+  - component: {fileID: 4030805951630188846}
   m_Layer: 0
   m_Name: ButterCreamCookie
   m_TagString: Cookie
@@ -220,3 +221,21 @@ PolygonCollider2D:
       - {x: 0.32361332, y: -1.335977}
       - {x: 0.4990279, y: -1.3753223}
       - {x: 0.4914384, y: -1.2940207}
+--- !u!114 &4030805951630188846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581941967610064608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1242a59c0ea5cde40a33a066429d73d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panels: []
+  isStart: 0
+  startButton: {fileID: 0}
+  cookieType: 0
+  cookies: []
+  inventory: {fileID: 0}

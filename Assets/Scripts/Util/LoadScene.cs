@@ -13,5 +13,5 @@ public class LoadScene : MonoBehaviour
     public void LobbyScene()
     {
         SceneManager.LoadScene("Lobby");
-    }    
+    }
 }

@@ -32,10 +32,10 @@ public class ScoreManager : MonoBehaviour
             gameManager.gameOver = true;
             endPanel.SetActive(true);
             return score;
-
         }
-        if (characterMove.transform.parent.position.y < -10)
+        if (characterMove.transform.parent.position.y < -20)
         {
+            Debug.Log("Failed");
             gameManager.gameOver = true;
             endPanel.SetActive(true);
             return score;

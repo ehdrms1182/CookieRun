@@ -8,7 +8,6 @@ public class CharacterMove : MonoBehaviour
     public float jump = 5f;
     public bool isSlide = false;
     public int jumpCount = 0;
-    public float characterHp = 100;
 
     public Scrollbar hpBar;
     CookieInfo cookieInfo;

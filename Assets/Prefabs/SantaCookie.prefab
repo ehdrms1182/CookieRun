@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 3692256753709405971}
   - component: {fileID: 3692256753709406188}
   - component: {fileID: 3692256753709405970}
+  - component: {fileID: -400183591404552143}
   m_Layer: 0
   m_Name: SantaCookie
   m_TagString: Cookie
@@ -209,3 +210,21 @@ PolygonCollider2D:
       - {x: 1.8729038, y: -2.0896928}
       - {x: 1.955625, y: -1.8495555}
       - {x: 1.8672428, y: -1.8155111}
+--- !u!114 &-400183591404552143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3692256753709405974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1242a59c0ea5cde40a33a066429d73d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panels: []
+  isStart: 0
+  startButton: {fileID: 0}
+  cookieType: 0
+  cookies: []
+  inventory: {fileID: 0}

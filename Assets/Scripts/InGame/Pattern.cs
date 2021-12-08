@@ -4,15 +4,18 @@ using UnityEngine;
 
 public class Pattern : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private Rigidbody2D patternRigid;    private const float EndPosX = -30f;
+    public void Init(float moveSpeed)//init 함수 알아보기
     {
-        
+        patternRigid = GetComponent<Rigidbody2D>();
+        patternRigid.velocity = new Vector2(-moveSpeed, 0.0f);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        if (EndPosX >= transform.parent.position.x)
+        {
+            Destroy(gameObject);
+        }
     }
 }

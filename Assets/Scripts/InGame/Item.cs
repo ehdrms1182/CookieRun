@@ -12,7 +12,7 @@ public class Item : MonoBehaviour
     [SerializeField]
     ScoreManager scoreManager;
     [SerializeField]
-    SoundManager soundManager;
+    //SoundManager soundManager;
     /*
     private void Start() 
     {
@@ -25,7 +25,7 @@ public class Item : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         
-        soundManager.PlayEattingSound();
+        //soundManager.PlayEattingSound();
         if (collision.gameObject.CompareTag("Potion"))
         {
             cookieInfo.characterHp += 5f;

@@ -19,7 +19,7 @@ public class CharacterMove : MonoBehaviour
     }    
     public void Jump()
     {
-        if(!(cookieInfo.isSlide))//&& timer == 0)
+        if(!(cookieInfo.isSlide))//&& timer == 0) //isSlide가 꺼져있을때
         {
             if (
                 //Input.GetMouseButton(0) && 
@@ -57,7 +57,7 @@ public class CharacterMove : MonoBehaviour
         }
     }
     */
-    void OnCollisionEnter2D(Collision2D other) 
+    void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("Ground"))
         {
@@ -71,7 +71,8 @@ public class CharacterMove : MonoBehaviour
         if (collision.gameObject.CompareTag("Potion"))
         {
             cookieInfo.characterHp += 5f;
-            Destroy(collision.gameObject);
+            //Destroy(collision.gameObject);
+            item.LifeRenew();
         }
         if (collision.gameObject.CompareTag("Obstacle"))
         {
@@ -81,12 +82,12 @@ public class CharacterMove : MonoBehaviour
         if (collision.gameObject.CompareTag("Jelly"))
         {
             scoreManager.score += 100;
-            Destroy(this.gameObject);
+            Destroy(collision.gameObject);
         }
         if (collision.gameObject.CompareTag("BearJelly"))
         {
             scoreManager.score += 500;
-            Destroy(this.gameObject);
+            Destroy(collision.gameObject);
         }    
     }
 }

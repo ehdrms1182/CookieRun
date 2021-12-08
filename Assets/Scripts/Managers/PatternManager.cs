@@ -16,7 +16,9 @@ public class PatternManager : MonoBehaviour
     private void Start()
     {
         s_pattern = Instantiate(startPattern, new Vector2(0.0f, 0.0f), Quaternion.identity);
+        
         s_pattern.GetComponent<Pattern>().Init(speed);
+        
         for(int i = 0; i<patterns.Length; i++)//패턴의 길이만큼
         {
             Debug.Log("Pattern");

@@ -116,7 +116,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -144,7 +144,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463195974436717
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,7 +260,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -289,7 +288,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463195976332276
 GameObject:
   m_ObjectHideFlags: 0
@@ -406,7 +404,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -434,7 +432,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463196033709340
 GameObject:
   m_ObjectHideFlags: 0
@@ -551,7 +548,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -579,7 +576,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463196257740649
 GameObject:
   m_ObjectHideFlags: 0
@@ -696,7 +692,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -724,7 +720,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463196603526060
 GameObject:
   m_ObjectHideFlags: 0
@@ -841,7 +836,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -869,7 +864,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463196987549324
 GameObject:
   m_ObjectHideFlags: 0
@@ -986,7 +980,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1014,7 +1008,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197025822467
 GameObject:
   m_ObjectHideFlags: 0
@@ -1131,7 +1124,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1159,7 +1152,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197068259818
 GameObject:
   m_ObjectHideFlags: 0
@@ -1276,7 +1268,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1304,7 +1296,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197114522719
 GameObject:
   m_ObjectHideFlags: 0
@@ -1421,7 +1412,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1449,7 +1440,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197192279866
 GameObject:
   m_ObjectHideFlags: 0
@@ -1566,7 +1556,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1594,7 +1584,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197236939888
 GameObject:
   m_ObjectHideFlags: 0
@@ -1711,7 +1700,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1739,7 +1728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197366203568
 GameObject:
   m_ObjectHideFlags: 0
@@ -1856,7 +1844,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1884,7 +1872,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197377319419
 GameObject:
   m_ObjectHideFlags: 0
@@ -2082,7 +2069,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -2110,7 +2097,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197603083903
 GameObject:
   m_ObjectHideFlags: 0
@@ -2227,7 +2213,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -2255,7 +2241,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197760197829
 GameObject:
   m_ObjectHideFlags: 0
@@ -2372,7 +2357,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -2400,7 +2385,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197769217774
 GameObject:
   m_ObjectHideFlags: 0
@@ -2517,7 +2501,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -2545,7 +2529,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197855307118
 GameObject:
   m_ObjectHideFlags: 0
@@ -2662,7 +2645,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -2690,7 +2673,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197859572047
 GameObject:
   m_ObjectHideFlags: 0
@@ -2807,7 +2789,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -2835,7 +2817,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197941246969
 GameObject:
   m_ObjectHideFlags: 0
@@ -2952,7 +2933,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -2980,7 +2961,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197981244518
 GameObject:
   m_ObjectHideFlags: 0
@@ -3097,7 +3077,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -3125,7 +3105,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &1450463197987975465
 GameObject:
   m_ObjectHideFlags: 0
@@ -3242,7 +3221,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -3270,7 +3249,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196203976243
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3326,6 +3304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!1 &1204135153734363652 stripped
@@ -3371,7 +3353,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196363588814
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3427,6 +3408,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!1 &1204135153826670841 stripped
@@ -3472,7 +3457,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196367072548
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3528,6 +3512,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!1 &1204135153826070803 stripped
@@ -3573,7 +3561,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196422514018
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3629,6 +3616,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!4 &1204135153885710675 stripped
@@ -3674,7 +3665,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196524756958
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3682,6 +3672,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1450463197377319423}
     m_Modifications:
+    - target: {fileID: -2845096543899730484, guid: 9ccda295949cbfb419ed6bd7161b7fad, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8997561151382432144, guid: 9ccda295949cbfb419ed6bd7161b7fad, type: 3}
       propertyPath: m_Name
       value: BearJelly (2)
@@ -3775,7 +3769,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196605758773
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3831,6 +3824,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!4 &1204135153586606340 stripped
@@ -3876,7 +3873,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196682110302
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3884,6 +3880,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1450463197377319423}
     m_Modifications:
+    - target: {fileID: -2845096543899730484, guid: 9ccda295949cbfb419ed6bd7161b7fad, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8997561151382432144, guid: 9ccda295949cbfb419ed6bd7161b7fad, type: 3}
       propertyPath: m_Name
       value: BearJelly
@@ -3977,7 +3977,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196731848939
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3985,6 +3984,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1450463197377319423}
     m_Modifications:
+    - target: {fileID: -2845096543899730484, guid: 9ccda295949cbfb419ed6bd7161b7fad, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8997561151382432144, guid: 9ccda295949cbfb419ed6bd7161b7fad, type: 3}
       propertyPath: m_Name
       value: BearJelly (3)
@@ -4078,7 +4081,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196800100964
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4134,6 +4136,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!4 &1204135153256728149 stripped
@@ -4179,7 +4185,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196846269139
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4235,6 +4240,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!1 &1204135153227337444 stripped
@@ -4280,7 +4289,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463196989215653
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4288,6 +4296,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1450463197377319423}
     m_Modifications:
+    - target: {fileID: -2845096543899730484, guid: 9ccda295949cbfb419ed6bd7161b7fad, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8997561151382432144, guid: 9ccda295949cbfb419ed6bd7161b7fad, type: 3}
       propertyPath: m_Name
       value: BearJelly (1)
@@ -4381,7 +4393,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463197058614757
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4437,6 +4448,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!4 &1204135152965741012 stripped
@@ -4482,7 +4497,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463197176401739
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4538,6 +4552,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!1 &1204135153016480636 stripped
@@ -4583,7 +4601,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463197197723899
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4639,6 +4656,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!1 &1204135153113154764 stripped
@@ -4684,7 +4705,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463197934444135
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4740,6 +4760,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!4 &1204135152239342166 stripped
@@ -4785,7 +4809,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1001 &1450463197970746707
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4841,6 +4864,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jelly
       objectReference: {fileID: 0}
+    - target: {fileID: 2058399613089089787, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dae959679562ca4190a3d7595b8336e, type: 3}
 --- !u!4 &1204135152204341602 stripped
@@ -4886,4 +4913,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6794fd57eebb841b11f0b3087ea791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}

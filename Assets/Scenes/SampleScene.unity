@@ -1407,7 +1407,9 @@ MonoBehaviour:
   jump: 5
   isSlide: 0
   jumpCount: 0
+  item: {fileID: 0}
   hpBar: {fileID: 1503770631}
+  scoreManager: {fileID: 0}
 --- !u!114 &846707845
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1487,7 +1489,9 @@ MonoBehaviour:
   jump: 5
   isSlide: 0
   jumpCount: 0
+  item: {fileID: 0}
   hpBar: {fileID: 1503770631}
+  scoreManager: {fileID: 0}
 --- !u!114 &900985246
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1767,7 +1771,9 @@ MonoBehaviour:
   jump: 5
   isSlide: 0
   jumpCount: 0
+  item: {fileID: 1503770634}
   hpBar: {fileID: 1503770631}
+  scoreManager: {fileID: 1185333161}
 --- !u!114 &1046938746
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2551,6 +2557,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1745638357}
     m_Modifications:
+    - target: {fileID: 485494741327593529, guid: 43d8cc6e34a1d0748b395ffa7cbca2b2, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 485494741416048042, guid: 43d8cc6e34a1d0748b395ffa7cbca2b2, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 485494741541162214, guid: 43d8cc6e34a1d0748b395ffa7cbca2b2, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 485494741995900005, guid: 43d8cc6e34a1d0748b395ffa7cbca2b2, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 485494742158949953, guid: 43d8cc6e34a1d0748b395ffa7cbca2b2, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 485494742954010063, guid: 43d8cc6e34a1d0748b395ffa7cbca2b2, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 485494742971939685, guid: 43d8cc6e34a1d0748b395ffa7cbca2b2, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 6060438468940464606, guid: 43d8cc6e34a1d0748b395ffa7cbca2b2, type: 3}
       propertyPath: m_IsTrigger
       value: 0

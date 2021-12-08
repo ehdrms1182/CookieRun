@@ -9,6 +9,7 @@ TagManager:
   - Ground
   - BearJelly
   - Potion
+  - Obstacle
   layers:
   - Default
   - TransparentFX

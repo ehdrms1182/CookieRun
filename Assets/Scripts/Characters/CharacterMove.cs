@@ -8,9 +8,10 @@ public class CharacterMove : MonoBehaviour
     public float jump = 5f;
     public bool isSlide = false;
     public int jumpCount = 0;
-
+    public Item item;
     public Scrollbar hpBar;
     CookieInfo cookieInfo;
+    public ScoreManager scoreManager;
     private void Start() 
     {
         transform.parent.position = gameObject.transform.position;
@@ -63,5 +64,29 @@ public class CharacterMove : MonoBehaviour
             Debug.Log("Ground");
             cookieInfo.jumpCount = 0;
         }
+    }
+    private void OnTriggerEnter2D(Collider2D collision) 
+    {
+        //soundManager.PlayEattingSound();
+        if (collision.gameObject.CompareTag("Potion"))
+        {
+            cookieInfo.characterHp += 5f;
+            Destroy(collision.gameObject);
+        }
+        if (collision.gameObject.CompareTag("Obstacle"))
+        {
+            cookieInfo.characterHp -= 10f;
+            item.LifeRenew();
+        }
+        if (collision.gameObject.CompareTag("Jelly"))
+        {
+            scoreManager.score += 100;
+            Destroy(this.gameObject);
+        }
+        if (collision.gameObject.CompareTag("BearJelly"))
+        {
+            scoreManager.score += 500;
+            Destroy(this.gameObject);
+        }    
     }
 }

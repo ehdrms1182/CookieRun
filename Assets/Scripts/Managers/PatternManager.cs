@@ -22,9 +22,9 @@ public class PatternManager : MonoBehaviour
         for(int i = 0; i<patterns.Length; i++)//패턴의 길이만큼
         {
             Debug.Log("Pattern");
-            patternList.Add(patterns[i]);
+            patternList.Add(patterns[i]);//패턴을 얻어온다
         }
-        StartCoroutine(CreatePattern());
+        StartCoroutine(CreatePattern());//패턴 코루틴 시행
     }
     IEnumerator CreatePattern()
     {
@@ -35,7 +35,7 @@ public class PatternManager : MonoBehaviour
             GameObject t_pattern = Instantiate(patternList[randomPattern], new Vector2(posX, 0.0f), Quaternion.identity);
             t_pattern.GetComponent<Pattern>().Init(speed);
             Debug.Log($"{randomPattern} Pattern");
-            yield return new WaitForSeconds(delayTime);
+            yield return new WaitForSeconds(delayTime);//0.1f만큼 리턴
         }
     }
 }
